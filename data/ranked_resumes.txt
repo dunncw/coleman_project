@@ -3,7 +3,7 @@ Resume: Cayden_dunn_res.txt, Score: 0.7937430407051332, Rank: 2
 Resume: Resume28.txt, Score: 0.7842936646952815, Rank: 3
 Resume: Resume22.txt, Score: 0.7783966041055023, Rank: 4
 Resume: Resume20.txt, Score: 0.7639764537086139, Rank: 5
-Resume: Resume1.txt, Score: 0.7514505798014367, Rank: 6
+Resume: Resume1.txt, Score: 0.7515655911376948, Rank: 6
 Resume: Resume11.txt, Score: 0.7508022888263438, Rank: 7
 Resume: Resume3.txt, Score: 0.7470857611023382, Rank: 8
 Resume: Resume10.txt, Score: 0.7454781082580443, Rank: 9
