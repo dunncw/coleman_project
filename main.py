@@ -44,10 +44,12 @@ if __name__ == "__main__":
         if filename.endswith('.txt'):
             resume_path = os.path.join(resumes_cleaned_dir, filename)
             resume_text = read_file(resume_path)
-            resumes.append(resume_text)
+            resumes.append((filename, resume_text))
 
     # Rank the resumes
     ranked_resumes = rank_resumes(client, job_description, resumes)
-    for resume, score in ranked_resumes:
-        logging.info(f"Resume: {resume}, Score: {score}")
+    for (filename, resume), score in ranked_resumes:
+        # print out the resume file name and the score
+        print(f"Resume: {filename}, Score: {score}")
+        
 

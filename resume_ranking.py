@@ -39,11 +39,11 @@ def rank_resumes(client, job_description, resumes):
         return []
 
     scores = []
-    for resume in resumes:
+    for filename, resume in resumes:
         resume_embedding = get_embedding(client, resume)
         if resume_embedding is not None:
             score = cosine_similarity(np.array(job_embedding), np.array(resume_embedding))
-            scores.append((resume, score))
+            scores.append(((filename, resume), score))
 
     # Sort based on scores in descending order
     scores.sort(key=lambda x: x[1], reverse=True)
