@@ -43,6 +43,8 @@ def rank_resumes(client, job_description, resumes):
     # Create a directory to store embeddings
     embeddings_dir = "embeddings"
     create_directory(embeddings_dir)
+    #store the job description embedding
+    np.save(os.path.join(embeddings_dir, 'job_description.npy'), job_embedding)
 
     scores = []
     for filename, resume in resumes:
