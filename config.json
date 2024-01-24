@@ -1,0 +1,10 @@
+{
+    "resume_dir": "data/Resumes",
+    "jd_dir": "data",
+    "resumes_cleaned_dir": "data/resumes_cleaned",
+    "jd_cleaned_dir": "data/jd_cleaned",
+    "output_dir": "data",
+    "embeddings_dir": "data/embeddings",
+    "summaries_dir": "data/top_candidate_summaries",
+    "top_n_candidates": 3
+}
