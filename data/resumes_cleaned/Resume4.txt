@@ -1,0 +1,211 @@
+CANDIDATE 3534FDF	                                                        
+
+		
+
+Professional Summary:
+
+Sap Convergent invoicing module, Billing, Invoicing…etc and involved in one end to end full life cycle S4 Hana
+
+Knowledge on sap Convergent Charge module, Rate and Consumption… etc.
+
+Knowledge on sap subscription order management, Order creation, business partner and contract account creation
+
+SAP FICA (Contract Accounts Receivable and Payable) work experience and involved into one end to end full life cycle S4 Hana.
+
+SAP FICO Professional experience and involved into one end to end full life cycle
+
+Worked on varies tools like ALM –HPQC, JIRA, Solution manager
+
+SAP FICA-SD integration 
+
+
+
+
+
+Education Qualification:
+
+
+
+Master of Business Administration M.B.A from ANU University -2011
+
+
+
+
+
+
+
+SAP Work Experience
+
+
+
+Current Project:
+
+.
+
+
+
+#Project3
+
+
+
+             Client                      : Ingram micro
+
+	Role                         : Senior CI Consultant
+
+	Project                   : Implementation project
+
+	Duration               : Sep 2021 to till date
+
+	Company              : Tech Mahindra, Bangalore, Karnataka 
+
+
+
+Description:
+
+Ingram Micro is an American distributor of information technology products and services. The company is based in Irvine, California, U.S. and has operations around the world.
+
+
+
+
+
+Responsibilities:
+
+
+
+working directly with the client and gathering requirements to analyze, design and implement a Convergent invoicing in SAP BRIM
+
+Creating billable item class and consumption item class
+
+Define sub process for billing
+
+Number rangers maintain for billing and invoicing documents
+
+Account assignments in convergent invoice 
+
+Involved in SOM and CC integration with CI Module 
+
+Maintain the master data set up like , business partner and contract account 
+
+Automatic Batch jobs schedule in convergent invoice 
+
+
+
+
+
+
+
+#Project2
+
+
+
+             Client                      : Coca-cola Company
+
+	Role                         : Senior FICA Consultant
+
+	Project                   : Implementation project
+
+	Duration               : Nov 2020 to August 2021
+
+	Company              : Capgemini, Bangalore, Karnataka 
+
+
+
+Description:
+
+
+
+The Coca-Cola Company is an American multinational beverage corporation incorporated under Delaware's General Corporation Law and headquartered in Atlanta, Georgia. The Coca-Cola Company has interests in the manufacturing, retailing, and marketing of nonalcoholic beverage concentrates and syrups
+
+
+
+Responsibilities:
+
+
+
+Working in CI and FICA modules in late S4 hana version 2020
+
+Writing the FSD’s as per client requirements and coordinating with technical team to complete the development.
+
+Creating the CDD and BPD documents 
+
+Creating the CITS, BITS as per client requirements
+
+Creating the FUT’s as per the functional documents.
+
+Doing the end to end testing in CI and FICA
+
+Creating the customer statements as per client requirements
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Project1
+
+
+
+	Client                      : CMA CGM Shipping Company
+
+	Role                         : SAP FICA Consultant
+
+	Project                   : Supporting project
+
+	Duration               : July 2016 to Nov 2020
+
+	Company              : Infosys, Bangalore, Karnataka 
+
+
+
+Description:
+
+CMA CGM S.A. is a French container transportation and shipping company. It is a leading worldwide shipping group, using 200 shipping routes between 420 ports in 150 different countries, ranking fourth behind Maersk Line, MSC and COSCO. Its headquarters are in Marseille, and its North American headquarters are in Norfolk, Virginia, United States.
+
+
+
+Responsibilities:
+
+
+
+Main transaction and subtraction configuration doing 
+
+Convergent invoice posting and testing, if any issues are coming in production
+
+payment terms and tax code creation in FICA
+
+Automatic write off configuration 
+
+Maintain in PA 2610 and PA 2640.
+
+Foreign currency revaluation issues
+
+Interface issues and idoc monitoring 
+
+SLG1 issues monitoring 
+
+Understanding the data flow from CDM and CRM to FICA.
+
+Payment lot, return lot, write off settings, cash Desk configurations 
+
+FPB7 bank statement issues resolving 
+
+Understanding Events concept in FICA 
+
+Interest calculation configuration 
+
+Installment payment and security deposit configuration

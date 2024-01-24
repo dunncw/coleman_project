@@ -1,0 +1,768 @@
+Page 8 of 11
+
+
+
+
+
+
+Candidate 5337757
+
+
+
+Summary of Experience and Qualifications
+
+12+ years of SAP experience into SAP Group Reporting, SAP BPC Real Time Consolidation, SAP BPC 10.1 Optimized for S/4 HANA 1909, SAP BPC Embedded Consolidation, SAP BI, SAP BEx, SAP BI-ABAP, SAP S/4 HANA Analytics, SAP BOBJ Analysis for Office, and SAP BPC 10.1 NW Standard. 
+
+SAP Certified Application Associate - Business Intelligence with SAP BW 7.3 and SAP BI 4.0.
+
+SAP Certified Application Associate - SAP HANA 1.0.
+
+SAP Certified Application Associate – SAP Analytics Cloud.
+
+SAP Certified Application Associate – SAP Analytics Cloud: Planning.
+
+Expert in SAP Group Reporting Configurations (Master Data Setup for Group Reporting, Release Universal Journals, Flexible upload of reported financial data, Data Validations, Net Income Calculation, Post/Import Group Journal Entries, Reclassification, Currency Conversion, Inter Company Matching and Reconciliation (ICMR), ICMR integration with Inter Company Eliminations, Inter Unit Eliminations, Consolidation of Investments, Management Consolidation, Balance Carry Forward, Cash Flow Statement with Reporting Rules.)
+
+Expert in BPC-Real Time Consolidation Implementation (Design the HANA Foundation Views required for Model creation, Consolidation Model and Dimensions creation, Define Master Data Properties, Automate Data Release task, Configure the IC Mismatch Booking Business Rules, Configure the Integration, Adjustments and Elimination Business Rules, Configure the Reclassification Business Rules, Configure the Balance Carry Forward Business Rules, Configure the BPC Journal Template for top-side entries)
+
+Expert in the areas of SAP BI, SAP BEx, SAP BI-ABAP, SAP BOBJ Analysis for Office, SAP BPC 10.1 NW Standard ABAP, SAP Real time Consolidation (RTC), SAP Embedded BPC.
+
+Successfully implemented large scale global projects on BW 7.3 on Hana, Consolidation reporting on S/4 Hana, SAP BPC 10.1 NW Standard, and SAP Real Time Consolidation (RTC) with 10.1 embedded BPC.
+
+Expert in debugging the ABAP routines of SAP BW transformations.
+
+Expert in writing user exits for customer exit variables in BEx queries/Planning filters.
+
+Worked on requirement gathering from business users.
+
+Good experience to understand the business requirements and map the requirements into functional and technical specifications.
+
+Expert in developing SAP BEx queries and BOBJ Analysis for Office input templates and reports.
+
+Expert in building custom planning function types with ABAP exit for complex requirements.
+
+Expert in loading master data and transaction data to BW/BPC.
+
+Expert in automating planning functions/planning sequences into process chains.
+
+Expert in handling SAP transports.
+
+Expert in creating, adopting, and implementing system test plans, which ensure acceptable quality and integrity of SAP systems.
+
+Part of end-to-end implementation of the biggest S/4 HANA implementations at Deloitte.
+
+Successfully implemented the most complex finance reports as part of Deloitte SWIFT SAP S/4 HANA implementation.
+
+Created the financial statement versions (FSV), custom sets in S/4 HANA and developed a mechanism for replicating them for using them on the reports.
+
+Implemented most flexible, self-service ad-hoc SAP BOBJ Analysis for Office reports for business users to pull any information from S/4 system in real time.
+
+Implemented the RRI (Report-to-Report Interface) drill thru functionality to S/4 HANA transactions from Analysis Office reports.
+
+Performed regression testing and integration testing each time we move a fix to higher environments.
+
+Played an important role in team discussions in analyzing, proposing, and implementing the best business solutions.
+
+Acted as a SPOC (Single Point of Contact) for all Deloitte SWIFT SAP S/4 Hana consolidation reporting requirements.
+
+Successfully mapped the custom measure requirements into system design specifications and implemented complex KPIs using BEx customer exit variables.
+
+Closely worked with business users in closing out the defects as part of UAT phase of the project.
+
+Worked on SAP BW, BW on Hana production support projects and in analyzing, fixing user incidents.
+
+Executed complex BW enhancements, break fixes.
+
+Identified recurring batch job failures and provided permanent resolution for them.
+
+Streamlined business processes and project documentation.
+
+Provided KT sessions to the business users as well as technical teams.
+
+Having great experience in executing the tasks and handling incidents well within the SLAs agreed with the client.
+
+Solution-focused, team oriented with proven skills to analyze an organization’s critical requirements, identify deficiencies, potential opportunities, and develop innovative solutions for increasing reliability and improving productivity.
+
+
+
+
+
+Deloitte Experience
+
+Project # 1
+
+Industry: TMT
+
+Offering Portfolio: Enterprise Operations (SAP)
+
+Service Line: SAP Analytics
+
+Role: Offshore Lead – Group Reporting
+
+Duration: Dec 2021 to till date
+
+
+
+Client Description:
+
+The client is an American multinational information technology company that provides a wide variety of hardware components as well as software and related services to consumers, small- and medium-sized businesses (SMBs) and large enterprises, including customers in the government, health, and education sectors.
+
+
+
+Project Description:
+
+Client was using BPC-Realtime Consolidation system for their consolidation and restatements processes. As part of this project, we implemented Group Reporting for S/4 HANA solution with the goal to fully integrate all the consolidation activities into S/4 HANA and provide exceptional user experience with FIORI UI.
+
+
+
+ Key Responsibilities –
+
+Requirement gathering.
+
+Led the design workshops.
+
+Provided Client Demo on End-to-End Consolidation process on Group Reporting.
+
+Create Functional and Technical Specifications for Restatement Process, Consolidation activities.
+
+Master Data Setup for Group Reporting.
+
+Release Universal Journals.
+
+Flexible upload of reported financial data.
+
+Data Validations.
+
+Net Income Calculation.
+
+Post/Import Group Journal Entries.
+
+Account Reclassification.
+
+Currency Conversion.
+
+Inter Company Matching and Reconciliation (ICMR).
+
+ICMR integration with Inter Company Eliminations.
+
+Inter Unit Eliminations.
+
+Management Consolidation.
+
+Balance Carry Forward.
+
+Cash Flow Statement with Reporting Rules.
+
+Ad-hoc reporting with Group Data Analysis.
+
+Document the Technical Unit Testing results.
+
+Complete the Functional Unit Testing with Business.
+
+Transport the developments to QA and validate.
+
+Perform SIT in QA environment.
+
+Fix the defects during the testing.
+
+Migrate the solution to production.
+
+Cutover activities in QA and Production environment.
+
+Supporting the successful go live.
+
+Providing hyper-care support.
+
+Incident resolution in Production environment.
+
+Give knowledge transfer to the client business and IT team members for after go-live support.
+
+
+
+Tools & Technologies used:
+
+	SAP Group Reporting for S/4 HANA 2020, SAP Group Reporting for S/4 HANA 1909, SAP BOBJ Analysis for Office, FIORI, HP ALM, Service Now.
+
+
+
+
+
+Project # 2
+
+Industry: TMT
+
+Offering Portfolio: Enterprise Operations (SAP)
+
+Service Line: SAP Analytics
+
+Role: Offshore Lead – Group Reporting
+
+Duration: Dec 2019 to Nov 2021.
+
+
+
+Client Description:
+
+Client is an American multinational telecommunications conglomerate.
+
+
+
+Project Description:
+
+Client was using BCS system for their consolidation. As part of this project, we implemented Group Reporting for S/4 HANA solution with the goal to fully integrate all the consolidation activities into S/4 HANA and provide exceptional user experience with FIORI UI.
+
+
+
+ Key Responsibilities –
+
+Requirement gathering.
+
+Led the design workshops.
+
+Provided Client Demo on End-to-End Consolidation process on Group Reporting.
+
+Create Functional and Technical Specifications for Restatement Process, Consolidation activities.
+
+Master Data Setup for Group Reporting.
+
+Release Universal Journals.
+
+Flexible upload of reported financial data.
+
+Data Validations.
+
+Net Income Calculation.
+
+Post/Import Group Journal Entries.
+
+Account Reclassification.
+
+Currency Conversion.
+
+Inter Company Matching and Reconciliation (ICMR).
+
+ICMR integration with Inter Company Eliminations.
+
+Inter Unit Eliminations.
+
+Management Consolidation.
+
+Balance Carry Forward.
+
+Cash Flow Statement with Reporting Rules.
+
+Ad-hoc reporting with Group Data Analysis.
+
+Document the Technical Unit Testing results.
+
+Complete the Functional Unit Testing with Business.
+
+Transport the developments to QA and validate.
+
+Perform SIT in QA environment.
+
+Fix the defects during the testing.
+
+Migrate the solution to production.
+
+Cutover activities in QA and Production environment.
+
+Supporting the successful go live.
+
+Providing hyper-care support.
+
+Incident resolution in Production environment.
+
+Give knowledge transfer to the client business and IT team members for after go-live support.
+
+
+
+Tools & Technologies used:
+
+	SAP Group Reporting for S/4 HANA 2020, SAP Group Reporting for S/4 HANA 1909, SAP BOBJ Analysis for Office, FIORI, HP ALM, Service Now.
+
+
+
+
+
+Project # 3
+
+Industry: TMT
+
+Offering Portfolio: Enterprise Operations (SAP)
+
+Service Line: SAP Analytics
+
+Role: Offshore Lead - Real Time Consolidation (Embedded BPC)
+
+Duration: Feb 2019 to Nov 2019.
+
+
+
+Client Description:
+
+The client is an American multinational enterprise information technology company that provides a wide variety of cloud, compute, data storage, networking, software services to its customers.
+
+
+
+Project Description:
+
+Client was using SEM-BCS system for their consolidation and restatements processes. As part of Finance Simplify project, we implemented BPC 10.1 Optimized for S/4 HANA (Real-time Consolidation) solution with the goal to automate all the manual activities that their business team is currently performing on the current landscape and gain the advantage of real time analytics with S/4 HANA.
+
+
+
+ Key Responsibilities –
+
+Create Functional and Technical Specifications for Historical Data Migration for Consolidation from Legacy Systems to S/4 HANA.
+
+Master data loads for custom hierarchies from MDG to S/4 HANA. 
+
+Historical Migration data flow Design, Build and Test.
+
+Configure Real time Consolidation.
+
+Design the HANA Foundation Views required for Model creation.
+
+Consolidation Model and Dimensions creation.
+
+Define Master Data Properties.
+
+Automate Data Release task.
+
+Configure the IC Mismatch Booking Business Rules.
+
+Configure the Integration, Adjustments and Elimination Business Rules.
+
+Configure the Reclassification Business Rules.
+
+Configure the Balance Carry Forward Business Rules.
+
+Configure the BPC Journal Template for top-side entries.
+
+Automated all the Consolidation Tasks using Planning Sequences and Process Chains.
+
+Build required BW objects like virtual providers, planning ADSOs, Real time cubes, planning functions, planning sequences.
+
+Build the required BEx queries, input templates and Analysis for Office Reports.
+
+Document the Technical Unit Testing results.
+
+Complete the Functional Unit Testing with Business.
+
+Transport the developments to QA and validate.
+
+Perform SIT in QA environment.
+
+Fix the defects during the testing.
+
+Migrate the solution to production.
+
+Cutover activities in QA and Production environment.
+
+Testing and defect resolution in Production environment.
+
+Supporting the successful go live.
+
+Executed the mandatory HDI Migration required for S/4 HANA 1709 to 1909 upgrade for RTC.
+
+Providing hyper-care support.
+
+Performance Improvement for IC Mismatch Booking, IC Elimination and Reclassification jobs.
+
+Give knowledge transfer to the client business and IT team members for after go-live support.
+
+
+
+Tools & Technologies used:
+
+	SAP BPC 10.1 Optimized for S/4 HANA, S/4 HANA 1709, S/4 HANA 1909, SAP RTC (Real Time Consolidation), SAP BOBJ Analysis for Office, SAP BEx, SAP BW-ABAP, SAP Embedded BPC, SAP WebIDE, Eclipse/Hana Studio, HP ALM, Service Now.
+
+	
+
+	
+
+Project # 4
+
+Industry: TMT
+
+Offering Portfolio: Enterprise Operations (SAP)
+
+Service Line: SAP Analytics
+
+Role: Offshore Lead - Real Time Consolidation (Embedded BPC)
+
+Duration: May 2018 to Jan 2019.
+
+
+
+Client Description:
+
+The client is an American multinational information technology company that provides a wide variety of hardware components as well as software and related services to consumers, small- and medium-sized businesses (SMBs) and large enterprises, including customers in the government, health, and education sectors.
+
+
+
+Project Description:
+
+Project Simplify - Client was using SEM-BCS system for their consolidation and restatements processes. As part of Finance Simplify project, we implemented BPC 10.1 Optimized for S/4 HANA (Real-time Consolidation) solution with the goal to automate all the manual activities that their business team is currently performing on the current landscape and gain the advantage of real time analytics with S/4 HANA.
+
+
+
+ Key Responsibilities –
+
+Create Functional and Technical Specifications for Restatement Process, Historical Data Migration for Consolidation and Restatements from Legacy Systems to S/4 HANA.
+
+Master data loads for custom hierarchies from MDG to S/4 HANA. 
+
+Restatements Design, Build and Test.
+
+Historical Migration data flow Design, Build and Test.
+
+Configure Real time Consolidation.
+
+Design the HANA Foundation Views required for Model creation.
+
+Consolidation Model and Dimensions creation.
+
+Define Master Data Properties.
+
+Automate Data Release task.
+
+Configure the IC Mismatch Booking Business Rules.
+
+Configure the Integration, Adjustments and Elimination Business Rules.
+
+Configure the Reclassification Business Rules.
+
+Configure the Balance Carry Forward Business Rules.
+
+Configure the BPC Journal Template for top-side entries.
+
+Build required BW objects like virtual providers, planning ADSOs, Real time cubes, planning functions, planning sequences.
+
+Build the required BEx queries, input templates and Analysis for Office Reports.
+
+Document the Technical Unit Testing results.
+
+Complete the Functional Unit Testing with Business.
+
+Transport the developments to QA and validate.
+
+Perform SIT in QA environment.
+
+Fix the defects during the testing.
+
+Migrate the solution to production.
+
+Cutover activities in QA and Production environment.
+
+Testing and defect resolution in Production environment.
+
+Supporting the successful go live.
+
+Providing hyper-care support.
+
+Give knowledge transfer to the client business and IT team members for after go-live support.
+
+
+
+Tools & Technologies used:
+
+	SAP BPC 10.1 Optimized for S/4 HANA, S/4 HANA 1709, SAP RTC (Real Time Consolidation), SAP BOBJ Analysis for Office, SAP BEx, SAP BW-ABAP, SAP Embedded BPC, Eclipse/Hana Studio.
+
+
+
+
+
+Project # 5
+
+Industry: Financial Services
+
+Service Line: SAP Analytics
+
+Role: SAP S4 HANA implementation for Consolidation
+
+Duration: Feb 2017 to Apr 2018.
+
+
+
+Project Description:
+
+Deloitte Swift – Consolidation – The project is Financial Transformation for Deloitte on SAP S4 HANA. Deloitte US office of the CFO has kicked off a firm wide Finance Modernization program aimed to build an excellent future state Finance function. Deloitte will be transforming the Financial Planning and Forecasting function as a part of the program.
+
+ Key Responsibilities –
+
+Worked on requirement gathering from users.
+
+Understand the business requirements in developing SAP BOBJ Analysis Reports on SAP S/4
+
+HANA and map the requirements into system design specifications.
+
+Responsible for deploying functional solutions, such as creating, adopting and implementing system test plans, which ensure acceptable quality and integrity of the SAP systems.
+
+Prepare functional and technical specifications for SAP custom measures and SAP BOBJ AO Reports.
+
+Work with users during the UAT phase and close any open defects by involving in project meetings and ensure smooth delivery of the SAP implementation.
+
+Creating user training documentation and conducting formal trainings on SAP S/4 HANA CDS views, BOBJ AO reports and ensure effective training to the end-users during go-live and hyper-care period.
+
+Ensure successful handover of SAP systems to the end users, while planning and initiating effective end user trainings regularly and assist users until they are acquainted with the new SAP system.
+
+Create most complex finance reports on SAP Analysis Office, by consuming the BEx queries built on top of S/4 HANA CDS views.
+
+Worked with Security team in assigning proper authorization to our reports and users.
+
+Provided KT sessions for support team members on S/4 HANA CDS views, BEx Queries, User Exits, AO reports for enabling them to support the Consolidation reports post go-live.
+
+Created, modified and reviewed the functional specification documents for SAP BOBJ Analysis Office reports.
+
+Worked on creating Fiori catalogs and groups and adding BOBJ reports as tiles on Fiori Launch Pad.
+
+
+
+Tools & Technologies used:
+
+	SAP S/4 Hana Analytics, SAP BEx, SAP BOBJ Analysis Office.
+
+	Service Now, Remedy, HPQC.
+
+
+
+
+
+Project # 6
+
+Industry: Semiconductor 
+
+Service Area: Technology
+
+Service Line: AMS - SAP
+
+Role: Consultant
+
+Duration: Aug 2015 to Feb 2017
+
+
+
+Project Description:
+
+Client’s business span across the Globe and went for a Greenfield implementation of SAP 7.3 BW on Hana with Deloitte. Deloitte’s SAP BI/BOBJ team implemented it successfully and supported the system after go-live with all the CRs, Enhancements & Break-fixes.
+
+
+
+Key Responsibilities:
+
+Involved in this project right from the go-live/hyper care phase. 
+
+Supported all kinds of change requests (CRs)
+
+Successfully handled the break fix incidents.
+
+Worked on gathering new requirements, enhancements and delivered them to business successfully.
+
+Gained significant experience on reporting tools like SAP BEx, SAP BOBJ Analysis for Office and SAP BOBJ Web Intelligence.
+
+Responsible for analyzing and fixing all kinds of data related issues on the BW reports.
+
+Performed data reconciliation.
+
+Responsible for preparing test plans, testing documents for all the fixes and taking them through the CCB approval process to migrate the fixes/changes to production environment.
+
+Managed on all kinds of BI related ABAP tasks.
+
+Applied fixes to Analysis Office and WebI Reports.
+
+Worked on all kinds of access related issues on BOBJ reports.
+
+Gained significant knowledge on BOBJ security.
+
+Acted as a SPOC for all the BI/BOBJ related information for business and higher management.
+
+Provided all kinds of data extracts that the legal team requested for audit purposes.
+
+
+
+Tools & Technologies used:
+
+	SAP BW 7.3 on HANA, SAP BI-ABAP, SAP BEx, SAP BOBJ Analysis Office, SAP BOBJ Web Intelligence.
+
+	Service Now, Remedy, HPQC, SAP Solution Manager, and ChaRM.
+
+
+
+Previous Experience – Infosys Ltd.
+
+Project # 7
+
+Industry: FMCG 
+
+Service Area: Technology
+
+Service Line: RCL - SAP
+
+Role: Technology Analyst 
+
+Duration: Jun 2013 to Aug 2015
+
+
+
+Project Description:
+
+Client is a leading global food and beverage company with respected brands throughout the world. Client has its business worldwide, which is divided into different sectors namely NA, LAR, AMEA, EUR, and PWF.  Each sector is having its own SAP landscapes implemented for their business operation. Our responsibility as a NA BW production support team is to support North America BW systems, which include batch monitoring, performance improvement, incident management, DVM activities, Transport change management through ChaRM (Solution Manager), Break-fix activities, Minor Enhancements, Work intake projects, User tickets which involves lot of analysis.
+
+
+
+Key Responsibilities:
+
+Identify and study the business requirements in SAP BW enhancement, work intake projects and map the requirements into system design specifications. 
+
+Taking ownership for deploying functional solutions, such as creating, adopting and implementing system test plans, which ensure acceptable quality and integrity of the SAP systems. 
+
+Creating training documentation and conducting formal trainings on SAP BW applications to the end-users. 
+
+Prepare functional and technical specification documents for SAP BW enhancements and work intake projects. 
+
+Presenting continuous improvement plan proposals on recurring SAP BW batch job failures to Senior Management and Client. Continuously investigate and analyze the operational issues and extensively work on improvement of solutions for smooth functionality of SAP Systems and streamline the business processes. 
+
+Analyzing the data mismatch issues in BEx reports.
+
+Worked on break-fix incidents.
+
+Delivered minor enhancements.
+
+Executed WIT (work in-take projects)
+
+Worked on data volume management tasks such as PSA/Change log deletions, selective deletion automation, NLS (Near-line Storage) archiving.
+
+Worked on Change Management using SAP Solution Manager ChaRM tool.
+
+
+
+Tools & Technologies used:
+
+	SAP BW 7.3 on HANA, SAP BI-ABAP, SAP BEx.
+
+	HP Service Manager, HPQC, SAP Solution Manager, ChaRM.
+
+	
+
+Previous Experience – Satyam Computer Services Ltd.
+
+Project # 8
+
+Industry: FMCG 
+
+Service Area: Technology
+
+Service Line: AMS - SAP
+
+Role: SAP BI Analyst
+
+Duration: Feb 2010 to Apr 2013
+
+
+
+Project Description:
+
+Client is one of the leading Nutrition Health and Wellness Company offering tastier and healthier food and beverages choices at all stages of life. As part of Nestlé Globe BI Operations team, I was responsible for performing end-to-end SAP BI preproduction and production support activities.
+
+
+
+Key Responsibilities:
+
+Discuss the SAP System support issues with team members, collaborate, analyze and interpret to resolve the issues and provide clients with permanent fixes. 
+
+Track the recurring issues in SAP systems and suggest mitigation plan for those issues. 
+
+As an effective team member conduct SAP knowledge sharing training sessions for the new team-members and contribute helpful solutions in team meetings. 
+
+Identifying, preparing and documenting all the business process and technical documents related to SAP Production support and Incident Management activities. 
+
+Liaising extensively with the clients of different regions. 
+
+Analyzing client’s existing SAP system data flow - Layered Scalable Architecture (LSA). 
+
+Identifying solutions for potential data load failures and assessing them for both technical and business suitability. 
+
+Help in the root cause analysis of repetitive failures in the SAP system. 
+
+Maintaining and updating key documents such as process chain dependency, monitoring sheets and landscape architecture.  
+
+Ensuring smooth SAP L1 incident management support and streamline the support process to increase efficiency and faster resolution time. 
+
+Expedite resolution for Major and Business Critical P1 & P2 issues by collaborating all the necessary teams. 
+
+Developing Knowledge Base on known issues and make it available to fellow team members. 
+
+Ensuring the SAP Production Support and Incident Management Operations meet the S.L.A signed with the Customer. 
+
+Performing data reconciliation as part of incident management for AMS, AOA markets and communicating onsite SMEs on the results. 
+
+Performing pre and post manual activities during service pack upgrade outages to ensure the system integrity. 
+
+Providing and receiving effective handoffs to the colleagues and leads during the shift changes. 
+
+
+
+Tools & Technologies used:
+
+	SAP BI 7.0, SAP BW 3.5, SAP BEx, and SAP HANA 1.0.
+
+	HP Service Manager, Service Center, Alert Monitoring Tool.
+
+	
+
+	
+
+Educational Qualification:
+
+Bachelor of Technology in Electronics & Communication Engineering from Jawaharlal Nehru Technological University, Hyderabad with 81.15%
+
+Intermediate in Mathematics, Physics and Chemistry from Board of Intermediate Education, Hyderabad with 94.9%.
+
+SSC from Board of Secondary Education, AP with 92.16%.
+
+
+
+System Experience:
+
+	SAP Group Reporting for S/4 HANA, SAP BPC-RTC (Real-time Consolidation), SAP BI-BEx, SAP BOBJ Analysis Office, SAP BW on HANA, SAP BI-ABAP, Fiori, SAP BPC 10.1 NW Std, SAP BPC-ABAP, SAP BPC 10.1 Optimized for S/4 HANA, SAP Embedded BPC.
+
+	Service Now, Remedy, Control-M, HP Service Manager, HPQC, SAP Solution Manager, and ChaRM.
+
+
+
+
+
+Certifications:
+
+
+
+Certifying Body
+
+SAP Certification Name
+
+Certified On
+
+	SAP
+
+	SAP Certified Application Associate - Business Intelligence with SAP BW 7.3 and SAP BI 4.0.
+
+	December 2012
+
+	SAP
+
+	SAP Certified Application Associate - SAP HANA 1.0.
+
+	September 2012
+
+	SAP
+
+	SAP Certified Application Associate – SAP Analytics Cloud
+
+	August 2021
+
+	SAP
+
+	SAP Certified Application Associate – SAP Analytics Cloud: Planning
+
+	August 2021

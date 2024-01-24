@@ -1,0 +1,159 @@
+CANDIDATE SERF23523
+
+
+
+Objectives: 	
+
+		
+
+		A position that allows me to apply my acquired knowledge to its fullest and offer opportunities for professional and personal growth.
+
+		
+
+Professional Summary:
+
+Qualified Cost and Management Accountant with a strong Finance, Accounting and Costing knowledge
+
+9+ years of experience in SAP BPC implementation and support projects on SAP BPC 10.0, BPC 10.1, BPC 11.0 and S4Hana Group reporting
+
+Worked on multiple projects of financial planning, Consolidation and Reporting on Sap BPC
+
+Involved in various facets of consulting like Configuration, Documentation, Training and Post Implementation Support
+
+Excellent Communication skills, Presentation skills and Target Oriented
+
+Proficiency in configurations and setup of BPC planning and consolidation applications
+
+Worked extensively on the SAP BPC Tools like creation of Environment, Models, Business Rules, Script Logic, Creating Custom measures, Work Status and Business Process Flow
+
+	  Expertise in EPM Input templates reports, script logic and DM’s
+
+	
+
+Professional Experience:
+
+Working as SAP BPC Consultant for Tata Consultancy services since Dec 2012 till date.
+
+
+
+Professional SAP Highlights
+
+Brief about my work assignments for different clients - 
+
+Client Name		:	Astellas (US)
+
+Project			:	Consolidation and Planning on SAP BPC 11.0
+
+Duration		:	Aug 2021 till date.
+
+Profile 			:
+
+Working to support any issue in consolidation and planning solution on BPC
+
+Work on enhancement and automation to existing solution
+
+Currently involve in upgrade to SAP BPC 11.1
+
+
+
+
+
+Client Name		:	Ericsson (Sweden)
+
+Project			:	Legal Consolidation on SAP BPC 10.0/10.1
+
+Duration		:	55 months
+
+Profile 			:
+
+Worked closely with Ericsson Group reporting team to ensure smooth closing of consolidation every month
+
+Initially worked on incident and change request in BPC system to ensure smooth legal consolidation closing in BPC, latter started working on Demands/Enhancements
+
+Have worked as an AO coordinator from Stockholm for SAP BPC
+
+Worked extensively on building Reports, Input Schedule, VBA, Business rules, script logic, DM etc
+
+Worked on upgrade to 10.1 classic
+
+POC on Sap S4H Group Reporting version 1909
+
+
+
+
+
+Client Name		:	Engie (France)
+
+Project			:	Financial KPI variance analysis and Management consolidation on SAP BPC 10.1
+
+Duration		:	6 months
+
+Profile 			:
+
+Had been part of a team to work on system design, creation & configuration in web client of Models, Dimensions, Script and Business rules
+
+Have prototyped input schedule and report and presented to stake holders
+
+
+
+
+
+Client Name		:	CROMA (India)
+
+Project			:	Sales and HR Headcount planning on SAP BPC 10.0
+
+Duration		:	12 months
+
+Profile 			:
+
+Worked as lead BPC Functional Consultant. Thoroughly involve in requirements gathering, analysis, configuration, Input schedules creation and reports creation
+
+Provided functional specification to technical team for Custom Badi development and Script Logic
+
+Worked on Work Status and security setup. Worked on simple Script logic and Data Manager Package
+
+Prepared business blueprint documentation, To-be documents, AS IS document. Developed Employees wise and Grade wise employment cost planning
+
+Created various process flow charts in MS Visio
+
+
+
+
+
+Client Name		:	TRITON (India)
+
+Project			:	Financial planning and Budget
+
+Duration		:	18 months
+
+Profile 			:
+
+Worked as BPC Functional Consultant
+
+Provided support for Sales, Purchase vertical’s budgeting and HRD budgeting in BPC
+
+Involved in Rolling Target requirements gathering, analysis, input schedules and reports creation. prepared business blueprint documentation for the same
+
+
+
+
+
+Client Name		:	TRIL (India)
+
+Project			:	Legal Consolidation on SAP BPC 7.5
+
+Duration		:	3 months
+
+Profile 			:
+
+Worked as a BPC functional consultant. Being new to BPC with having strong accounting background was primarily responsible to act as liaison between Business and IT team
+
+
+
+Academics:
+
+Post-Graduation: CMA (Cost & Management Accountant) from The Institute of Cost and Management Accountant of India in 2012, passed with first class
+
+Graduation:  Bachelor of Commerce from North Maharashtra University in 2010 passed with first class with distinction 
+
+40 Days training on SAP FICO module. 2013

@@ -1,0 +1,439 @@
+CANDIDATE 2564 – Senior Software Engineer
+
+Summary
+
+Self-directed, detail-oriented, and professional c# programmer with more than 15 years of experience in designing, developing, analyzing, and implementing client-server, web and desktop-based applications using c# language. Expertise in system designing as well as in testing, debugging, and modifying related application code. Capable of learning new programming languages and technologies and completing projects with specified deadlines. Posses excellent communication, problem-solving, documentation, analytics, and decision making skills
+
+Skilled in .NET Back-end Development, .NET
+
+Certified in Microsoft Certified: Azure Fundamentals
+
+Skills
+
+Academic Disciplines
+
+Humanities: English, Polish
+
+Formal Sciences: Logic [Science], Mathematics
+
+Applied Sciences: Design patterns, Prompt Engineering, SOLID (object-oriented design principles), Engineering, Artificial intelligence, AI Ethics, Software Architectural Styles, Software Engineering Techniques, .NET app security, Software Development, Networks basics, Algorithms & Data structures, Software Quality, Software Architecture, Clean Code, Test-Driven Development, Object-oriented Programming, REST, Dependency injection, Legacy Code
+
+Business Functions
+
+Corporate Communications: Interviewing
+
+Account Management: Contract Management
+
+Workforce Planning & Management: Staffing
+
+Consulting Practice
+
+Business Consulting: Forecasting
+
+Engineering Practices
+
+Digital Engagement: Xamarin Forms Development, Optimization, DE/Mobile, Xamarin Android Development
+
+Advanced Technology: .NET Data Access Development, Software Engineering Practices, Software Engineering Processes, Algorithms, Debugging, CI/CD, .NET Back-end Development, .NET, Analysis, .NET Desktop development, Software Development Methodology in Engineering, Troubleshooting, Engineering Excellence, .NET Asynchronous and Multithreading Programming, Software Design, .NET ORM, .NET Unit and Integration Testing, Estimation and Work Planning, Cloud Fundamentals, Software Engineering Knowledge & Experience, Math, .NET Web Development
+
+Intelligent Enterprise: Speech to Text, SQL Fundamentals, MySQL. Performance tuning, Natural Language Processing, MS SQL Server. T-SQL, MySQL DB Development, SQL SSIS
+
+Cloud: Cloud Support Services, Cloud
+
+Management: Management
+
+Quality Engineering: Unit Testing
+
+Industries
+
+Life Sciences & Healthcare: Sales
+
+Leadership & Soft Skills
+
+Leadership: Developing Others, Organizational culture ambassador, Professional Development Planning, Leadership, Mentoring, Clarity and argumentation
+
+Communication: Consensus building, Organizational Savviness, Giving Feedback, Stress tolerance, Diplomacy, Assertiveness, Business Correspondence, Conflict management, Communication, Negotiations
+
+Consultancy: Enthusiasm for new technologies
+
+Teamwork and Collaboration: Creating team climate, Team Management, Teamwork and Collaboration
+
+Growth Mindset: Resilience, Accepting feedback, Continuous learning
+
+Ownership: Problem-solving, Time Management, Task Management, Result-orientation, Self-Management
+
+Managerial
+
+People Management: Exit Management, Motivation, Coaching, Succession Planning, Onboarding and Adaptation, Compensation Management, Interviewing and Hiring, People Management, Conducting one-on-one meetings, Navigating EPAM people management processes, Performance Development, Employee Retention, Employee Recognition, Unit Management, Bench Management
+
+Project Management: Project Team Management, Customer relationship
+
+General Management: Software Development Methodologies, Scrum, Interviews, Waterfall, Agile
+
+Technologies
+
+Standard: Security Protocols and Standards, Azure Virtual Machines, Message Brokers (MQ), Git, JSON, Software as a Service
+
+IDE: Visual Studio
+
+Library: SignalR
+
+Hardware: Azure Internet of Things
+
+Computer Language: JavaScript, T-SQL, LINQ, SQL, Scratch, HTML, XML, PL/SQL, C++, C#
+
+Framework: ReactJS, AutoMapper, Entity Framework, ASP.NET Web Forms, MOQ, NUnit, Angular, Dapper, xUnit, WPF, ASP.NET MVC
+
+Data: MySQL, SQL Databases, Azure AI + Machine Learning, Databases, NoSQL Databases, MariaDB, PostgreSQL, Percona Server for MySQL, Entity Framework Core, SQL Management Studio, Microsoft SQL Server
+
+Other: RestSharp, ASP.NET Identity, Azure Functions, Azure Advisor, Azure Identity, .NET Multi-platform App UI, Azure App Service, Azure Tools, .NET Logging Tools, Azure Monitor, .NET HttpClient, Azure API Management, .NET Technologies, Microsoft Sentinel, ASP.NET Web API, Json.NET, Azure Relational Databases, Azure Networking, Azure DevOps, WinForms, REST API, Azure Cost Management + Billing, .NET API Development & Integration, Azure Blueprints, Azure Policy, XAML, ASP.NET AJAX, Azure Kubernetes Service, Azure Developer Tools, Azure Storage, Azure Key Vault, Blazor, ChatGPT, Azure Container Instances
+
+Web/Application Server: ADO.NET, .NET Framework, ASP.NET, Web Services
+
+Solution: Asterisk, Visual Studio Code, Squid, Azure Resource Manager, Jira, Postman, GitHub, Microsoft Access
+
+Platform: Amazon Web Services, WooCommerce, Android, Prestashop, Docker, Microsoft Azure
+
+Work experience
+
+Jun-2023 - Till now (Aug-2023) - Senior Software Engineer, EPAM Systems, https://www.epam.com/
+
+Customer: eLocal
+
+Customer Description: Business Information & Media
+
+EPAM Project Description: POC to prove ability to generate articles with images with the help of AI. Application generated blog post topics (Open AI) on Google Trends base, blog posts for selected topic, images for the article (Dalle, Midjourney)
+
+Team Size: 4 Developers
+
+Project Roles: Developer
+
+Responsibilities: 
+
+Implemented .NET API that returned generated by AI articles (used Azure Open AI Services)
+
+Created and optimized the correct prompts for Open AI to get relevant article content
+
+API deployment with Azure Functions
+
+Active participation in finding the best solutions and technologies for the project
+
+PoC delivered in 3h
+
+Tools and Technologies: PostgreSQL, Visual Studio, Azure Open AI Studio, PostgreSQL, .NET Core, Azure, Open AI, Azure Functions, C#
+
+
+
+Mar-2023 - Jun-2023 - Senior Software Engineer, EPAM Systems, https://www.epam.com/
+
+Customer: London Stock Exchange Group
+
+Customer Description: Business Information & Media
+
+EPAM Project Description: The project involves the migration of financial filings content to the Enterprise Data Platform (EDP) on Amazon Web Services (AWS) infrastructure. This comprehensive process includes transferring, organizing, and optimizing a vast amount of financial data, ensuring seamless integration and accessibility for users. The migration aims to improve the overall efficiency, security, and scalability of the system while taking advantage of the advanced features and benefits offered by the AWS cloud platform. Additionally, the project entails close collaboration with various stakeholders and thorough testing to guarantee a smooth transition and minimal disruption to existing workflows. Ultimately, the successful completion of this migration will contribute to enhanced data management capabilities and support more informed decision-making processes for businesses and financial professionals
+
+Team Size: Dev Team: 9
+
+Project Roles: Key Developer
+
+Responsibilities: 
+
+Directly contacted with the customer, took part in meetings and discussed product related issues, reviewed and estimated requirements
+
+Responsible for troubleshooting production issus
+
+I designed, developed and implemented a solution that allows you to verify the availability and correctness of data in distributed systems
+
+Development and implementation of the process of extracting tabular data from PDF and HTML documents
+
+I collaborated with cross-functional teams to ensure timely delivery of projects and provided technical support. Furthermore, I continuously researched and evaluated new technologies to improve system performance and functionality
+
+Tools and Technologies: MS SQL, Elastic, Visual Studio 2022, SQL Server, Elastic, Git, Jira, Postman, .Net Core, .Net, C#, SQL, T-SQL
+
+
+
+Jan-2023 - Feb-2023 - Senior Software Engineer, EPAM Systems, https://www.epam.com/
+
+Customer: London Stock Exchange Group
+
+Customer Description: Business Information & Media
+
+EPAM Project Description: Realtime Technology program under Shared Technology division
+
+Represents a portfolio of 10 projects within Content Sourcing and Processing areas including Content Intelligence Platform, Tick History and Time Series systems
+
+Team Size: Dev Team: 8
+
+Project Roles: Key Developer
+
+Responsibilities: 
+
+Directly contacted with the customer, took part in meetings and discussed product related issues, reviewed and estimated requirements
+
+Responsible for troubleshooting production issus
+
+I designed, developed and implemented a solution that allows you to verify the availability and correctness of data in distributed systems
+
+Development and implementation of the process of extracting tabular data from PDF and HTML documents
+
+Tools and Technologies: MS SQL, Elastic, Visual Studio 2022, SQL Server, Elastic, Git, Jira, Postman, .Net Core, .Net, C#, SQL, T-SQL
+
+
+
+Jun-2022 - Dec-2022 - Senior Software Engineer, EPAM Systems, https://www.epam.com/
+
+Customer: London Stock Exchange Group
+
+Customer Description: Business Information and Media
+
+EPAM Project Description: The project involves the migration of financial filings content to the Enterprise Data Platform (EDP) on Amazon Web Services (AWS) infrastructure. This comprehensive process includes transferring, organizing, and optimizing a vast amount of financial data, ensuring seamless integration and accessibility for users. The migration aims to improve the overall efficiency, security, and scalability of the system while taking advantage of the advanced features and benefits offered by the AWS cloud platform. Additionally, the project entails close collaboration with various stakeholders and thorough testing to guarantee a smooth transition and minimal disruption to existing workflows. Ultimately, the successful completion of this migration will contribute to enhanced data management capabilities and support more informed decision-making processes for businesses and financial professionals
+
+Team Size: Dev Team: 8
+
+Project Roles: Key Developer
+
+Responsibilities: 
+
+Directly contacted with the customer, took part in meetings and discussed product related issues, reviewed and estimated requirements
+
+Responsible for troubleshooting production issus
+
+I designed, developed and implemented a solution that allows you to verify the availability and correctness of data in distributed systems
+
+Development and implementation of the process of extracting tabular data from PDF and HTML documents
+
+Tools and Technologies: MS SQL,  Elastic, Visual Studio 2022, SQL Server, Elastic, Git, Jira, Postman, .Net Core, .Net, C#, SQL, T-SQL
+
+
+
+Jul-2018 - Apr-2022 - Facetel Sp. z o.o.
+
+Customer: Facetel Sp. z o.o
+
+Project Description: Integrated system for supporting the work of a telephone consultant - automatic transcription and analysis of telephone calls in terms of using specific content and phrases, automatic evaluation of the consultant's work, automatic prompts
+
+Team Size: Dev Team: 5
+
+QA Team: 2
+
+DevOps: 1
+
+Project Roles: .NET Developer, Team Leader, SQL Developer, Architect
+
+Responsibilities: 
+
+Created solution architecture
+
+POC development
+
+Estimated cost and complexity
+
+Responsible for end to end system support and development
+
+Conducted code reviews
+
+Conducted job interviews, hired, adapted, and trained a team
+
+Define and evolve system concepts and technically feasible software solutions that answer the client’s analysis challenges
+
+Communicate system requirements to software designers and developers; explain system structure to them and provide assistance throughout the assembly process
+
+Development and bugs fixing
+
+Unit tests development to cover business logic by test
+
+Tools and Technologies: MySQL/MariaDB, Visual Studio, Jira, Navicat, C#, ASP.NET Core, .NET Core, RestAPI, Asterisk, GSR (Google speech recognition), EF Core
+
+
+
+May-2014 - Apr-2022 - Znany Lekarz Sp. z o.o.
+
+Customer: Znany Lekarz Sp. z o.o
+
+Project Description: Creating system enabling integration between znanylekarz.pl and callcenter system - management of telephone numbers, calls redirections, voice announcements, visit registration service by telephone consultans
+
+Team Size: Dev Team: 8
+
+QA Team: 2
+
+DevOps: 4
+
+Project Roles: Solution Architect, Lead .NET Developer, SQL Developer
+
+Responsibilities: 
+
+Define and evolve system concepts and technically feasible software solutions that answer the client’s analysis challenges
+
+Define, architect, evolve and independently execute or assign tasks
+
+Design the architecture of a solution
+
+Development and bugs fixing
+
+Performance improvements
+
+Tools and Technologies: MySQL,  monogDB, ASP.NET, ASP.NET Core, C#, EF, EF Core, MySQL, mongoDB, .NET, .NET Core, RestAPI, Docker, Asterisk
+
+
+
+Nov-2016 - Mar-2022 - Laboratorium Pani Domu Sp. z o.o.
+
+Customer: Laboratorium Pani Domu Sp. z o.o
+
+Project Description: Solution to manage whole sales process - full integration with: warehousing software (Subiekt Nexo Pro), WooCommerce, Prestashop, Asterisk. Management of orders, contacts, complaints and inventory. Integration with Allegro and courier service providers (Inpost, DPD, DHL)
+
+Team Size: Dev Team: 6
+
+QA Team: 2
+
+DevOps Team: 2
+
+Project Roles: .NET Developer, Team Leader, SQL Developer
+
+Responsibilities: 
+
+As a team leader, I conducted job interviews, hired, adapted, and trained a team
+
+Ensure that systems satisfy quality standards and procedures
+
+Communicate system requirements to software designers and developers; explain system structure to them and provide assistance throughout the assembly process
+
+Gather the requirements, breaking them down into smaller manageable parts
+
+Implementation for the new requirements as well as enhancements
+
+Planning and team management
+
+Development and bugs fixing
+
+Unit tests development to cover business logic by test
+
+Creating SQL scripts
+
+Tools and Technologies: MySQL, Visual Studio, Jira, Visual Studio Code, Navicat, ASP.NET, ASP.NET Core, C#, EF, EF Core, MySQL, .NET, .NET Core, Blazor, RestAPI, Docker, Asterisk
+
+
+
+Apr-2012 - Mar-2022 - Comtex Sp. z o.o. Sp.K.
+
+Customer: Comtex Sp. z o.o. Sp.K
+
+Project Description: Sales reporting system for over 30 Plus (Polkomtel S.A.) points across the country - settling commissions od employees and individual points of sale, forecasting the implementations of sales plan, integration with systems for servicing Plus partner networks
+
+Team Size: Dev Team: 4
+
+QA Team: 1
+
+DevOps Team: 1
+
+Project Roles: .NET Developer, Team Leader, SQL Developer
+
+Responsibilities: 
+
+As a team leader, I conducted job interviews, hired, adapted, and trained a team
+
+Communicate system requirements to software designers and developers
+
+Creating SQL scripts
+
+Implementation for the new requirements as well as enhancements
+
+Design the architecture of a solution
+
+Backend development and bugs fixing
+
+Tools and Technologies: MySQL, MSSQL, Visual Studio, Jira, Navicat, SQL Server Management Studio, ASP.NET, ASP.NET Core, C#, EF, EF Core, MySQL, .NET, .NET Core, RestAPI, Docker, Asterisk
+
+
+
+May-2014 - Jun-2018 - Hermes Energy Group S.A.
+
+Customer: Hermes Energy Group S.A
+
+Project Description: Solution that allows to manage the sales process - management of merchants, subagents, commission system, generating contracts, customer classification and after-sales service, dedicated mobile application (Android)
+
+Team Size: Dev Team: 8
+
+QA Team: 2
+
+DevOps Team: 2
+
+Project Roles: .NET Developer, SQL Developer, Team Leader
+
+Responsibilities: 
+
+Directly contacted with the customer, took part in meetings and discussed all product related issues, reviewed and estimated requirements
+
+Implemented new stories and fixed existing bugs
+
+Low-level project design
+
+Coordinated a team of 8 developers and 2 QAs
+
+Designed the data model
+
+Designed the API
+
+Tools and Technologies: MySQL, Visual Studio, Jira, Visual Studio Code, Navicat, Xamarin Test Cloud, ASP.NET, ASP.NET Core, C#, EF, EF Core, MySQL, .NET, .NET Core,  RestAPI, Docker, Xamarin, Asterisk
+
+
+
+Jul-2014 - Mar-2018 - Centrum Informatyczne Edukacji MEN
+
+Customer: Centrum Informatyczne Edukacji MEN
+
+Project Description: System for receiving online failure reports for education staff (schools, boards of education) - distribution of notifications depending on the category and availability of employees. Integration with JIRA
+
+Team Size: Dev Team: 2
+
+DevOps Team: 1
+
+Project Roles: .NET Developer, SQL Developer
+
+Responsibilities: 
+
+Design and implementation of monolith architecture using
+
+clean code, middleware pattern, IOC repository and unit of
+
+work patterns
+
+Design and implementation REST APIs
+
+Developed bridge APIs and done integration with Jira
+
+Writing and support unit and integration tests (TDD)
+
+Writing and support technical documentation
+
+Investigated and fixed bugs on Production
+
+Designed and implemented Sql Database, created Stored Procedures, Sql Tables and Sql Triggers
+
+Tools and Technologies: MySQL, MSSQL, Visual Studio, Jira, Navicat, SQL Server Management Studio, ASP.NET Core, C#, EF Core, MySQL, .NET, .NET Core, RestAPI, Docker, Java Script
+
+
+
+Education
+
+Name of the Education Establishment: WARSAW UNIVERSITY OF TECHNOLOGY
+
+Faculty/College: Chemistry
+
+Department: Chemical Technology
+
+Degree (diploma): Master
+
+
+
+Name of the Education Establishment: POLISH-JAPANESE ACADEMY OF INFORMATION TECHNOLOGY
+
+Faculty/College: Computer Science
+
+Degree (diploma): Master
+
+
+
+Certificates
+
+2023 - Microsoft: Microsoft Certified: Azure Fundamentals

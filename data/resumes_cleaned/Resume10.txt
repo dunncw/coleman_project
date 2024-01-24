@@ -1,0 +1,405 @@
+CURRICULUM VITAE
+
+
+
+ Candidate 24080	                                            
+
+                                                                                                                                                                                                                                          
+
+PROFESSIONAL SUMMARY:
+
+ 8 years of work experience, which includes 5+ years in SAP as a Functional consultant (Finance and controlling, SAP S/4HANA Finance for group reporting 2020, BPC 10.0, 10.1, and 11.0 Consolidation) 3+ years of Domine Experience.
+
+
+
+
+
+SOFTWARE SKILLS:
+
+		ERP		          : SAP (SAP /FI) ECC 6.0
+
+                    Planning                 : SAP-BPC 10, 10.1 and 11.1
+
+                    S/4 HANA               : Group Reporting 2020
+
+
+
+PROFESSIONAL Experience:
+
+                
+
+Currently working as a Group reporting Consultant in Ameri 100 from March 2020 to till date.
+
+Worked as a SAP-BPC 10.1/FICO Consultant in Genpact India PVT LTD, Hyderabad from Jun 2014 to Feb 2020
+
+
+
+
+
+EDUCATION:
+
+MBA: Completed MBA (FINANCE AND MARKETING) from Sri Shivani institute of technologies, JNTU Kakinada 2011
+
+
+
+BBM: Completed BBM (FINANCE AND MARKETING) from Hindu collage Acharya Nagarjuna University in 2008.
+
+	
+
+Profile: -
+
+
+
+Extensive hands-on experience configuring BPC objects of Models, Dimensions, Reports, Input Forms, Logic Scripts, Data Manager Packages, BPFs, Process Chains, Dimension Formula, Security Profiles, Work Status, etc.
+
+Functional   Expertise with Currency Translation, Intercompany Eliminations, IC Matching, Balance Carry Forward, Allocations, Forecasting Budgeting.
+
+Technical Skills include the creation of Environment, Model, Dimensions, Properties, Members, Hierarchies, Security (Task Profiles and Member Profiles), Work Status, Logic Script, and other EPM functions, Journals, Comments, Data manager packages and Process Chains (NW), Transformation Files, Conversion Files, BPFs, Business Rules.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project # 5: 
+
+                
+
+         Employer                          :   Ameri 100 
+
+            Client                 		:   TAQA
+
+Duration			:   March 2020 to till the data
+
+Role                      		:   SAP S/4HANA Finance for group reporting 
+
+
+
+Client Description:
+
+
+
+The goal of TAQA. project is to transform the current ERP system to SAP S/4HANA. Oracle Hyperion Financial Management which is used as a primary tool for consolidation for which we need to replace on to SAP S/4 HANA group reporting. By implementing this project TAQA saves huge IT operational cost by eliminating different IT landscapes and provides consistent reporting by having a Single version of truth.
+
+Responsibilities:
+
+
+
+Solution designing of consolidation solution, understanding business requirements, and making fit with Group reporting capabilities
+
+Experienced in designing data monitor, consolidation monitor, setting up of consolidation key master data like FS items, breakdown category, key attributes of Fs items, consolidation unit and group structure.
+
+Worked on configuration of intercompany elimination setup like balance sheet, & P&L elimination scenarios
+
+worked on consolidation of investment, currency translation set up in group reporting.
+
+Having experience in designing group reporting consolidation reports like Balance sheet P&l statements cash flow statements etc with help of FIORI a
+
+worked on setting up a different type of hierarchy in group reporting along with reporting rules design.
+
+
+
+     
+
+
+
+Project # 4: 
+
+                    
+
+Employer                                     :  Genpact
+
+Client                 			:  Reckitt Benckiser Group PLC
+
+Duration				:  Oct 2018 to Feb 2020
+
+Role                      			:  SAP-BPC 10.1 Consultant
+
+Project Type				:  (Implementation, Support)
+
+
+
+Client Description:	
+
+        
+
+             Reckitt Benckiser Group PLC, trading as Reckitt, is a British multinational consumer goods company headquartered in Slough, England. It is a producer of health, hygiene, and nutrition products. The company was formed in March 1999 by the merger of British company Reckitt & Colman plc and Dutch company Benckiser N.V.
+
+
+
+Responsibilities:
+
+
+
+Expertise in setting up End to End data load processes from BW and non-SAP source systems.
+
+Worked on Account-based Calculations, Currency Translation, and Intercompany Elimination.
+
+Worked on setting up ownership percentages, and maintaining the methods and multipliers.
+
+Created Business Process Flows to run the consolidation process.
+
+Created Consolidation, Ownership and Rates models with all the required properties for developing a legal consolidation application.
+
+Experience in creating Reports and Input Templates using complex EPM functions, Local Members, Comments, Dynamic Formatting.
+
+Extensively used Excel functions such as Data Validations, Conditional Formatting, Ranking, Sorting, Excel formulas, and Macros. 
+
+Update Account and other master data hierarchies manually and from BW. 
+
+Validate, reconcile data between source systems ECC and BW and target systems BW and BPC.
+
+Worked on implementing features like Model level security with secured dimensions and member access profiles.
+
+ Extensively worked on creating Transformation and Conversion files with complex logic using Java Script for both master and transaction data loads from various source systems.
+
+Specialized in configuring Data Manager Packages and package Links to perform delta/full data loads into BPC from BW and non-SAP systems.
+
+Worked on creating custom Process Chains for BPC, modification of dynamic script and triggering BPC packages from BW using Answer Prompts.
+
+Worked on Member Formulas for calculating, Account Based Calculations for calculating retained earnings and Carry Forward Business Rule for calculating Opening and Closing Balances.
+
+Experience in maintaining properties required for Group Currency Translation and its execution.
+
+Experience in writing Logic Script for Allocations and Destination APP and for other calculations.
+
+Experience in configuring Work Status, Journals and Controls.
+
+Extraction, Transformation and Loading of master and transaction data from ECC, BW, flat file, SQL Server to BPC in full and delta modes. 
+
+Data management of master & transaction data loaded to BPC using the data transformation, conversion logic and Validation of data loaded.
+
+
+
+Project # 3: 
+
+      
+
+Employer                                     :  Genpact
+
+Client                 			:  PayPal Holdings, Inc
+
+Duration				:  Feb 2018 to Sept 2018
+
+Role                      			:  SAP-BPC 10.0 NW Consultant
+
+Project Type                                 :  Legal Consolidation (Support)
+
+Team Size                                    :  6
+
+
+
+Client Description:	
+
+        
+
+               PayPal Holdings, Inc. is an American multinational financial technology company operating an online payments system in the majority of countries that support online money transfers and serves as an electronic alternative to traditional paper methods such as checks and money orders. The company operates as a payment processor for online vendors, auction sites, and many other commercial users, for which it charges a fee
+
+	
+
+Responsibilities:
+
+Responsible for the initial phase of the Project for Planning and Consolidation using BPC 10.0 NW.
+
+Created Consolidation, Ownership and Rates models with all the required properties for developing a legal consolidation application.
+
+Worked on the installation of IFRS starter kit on BPC 10.0 NW.
+
+Adapted the IFRS starter kit with the business requirements.
+
+Worked on Statement of Financial Position, Income Statement, and Statement of Cash Flows.
+
+Worked on Account-based Calculations, Currency Translation, and Intercompany Elimination.
+
+Worked on setting up ownership percentages, maintaining the methods and multipliers.
+
+Created Business Process Flows to run the consolidation process.
+
+Experience working with Account Transformation and Account reclassification.
+
+Worked on publishing the statutory consolidation reports.
+
+Worked on setting up the security by maintaining the Teams, Task profiles and Data Access profiles.
+
+Extensively trained the client on BPC Functionality such as Data manager Packages, Conversion and Transformation Files, Environments, Models, Dimensions, Dimension members, Properties, Hierarchies, Functionality of Data manager, Process chains.
+
+Currency Translations and IC   Matching, IC eliminations for consolidations.
+
+Loading Actual Data into the Finance and Consolidation Models and Loading Currency Exchange Rates into the Rate Model.
+
+Configured Business Rules for Currency Translation, Intercompany Elimination, and Created Packages for    Running these Business Rules.
+
+Setting up Work status and Security for Models across different regions. Extensively worked on BPF to automate the planning process.
+
+Worked closely with business users to design, develop, test, and implement Logic Script in custom tasks in Packages.
+
+Worked closely with business users to design, develop, test, and implement input schedules, reports using EPM functions.
+
+Built Reports and Input Forms using Options like Local Member Recognition, keep, exclude, etc, and worked on formatting the reports.
+
+Created Transformation file and Conversion files to load the data from BW.
+
+Administered and oversaw any changes to the Model design and functionality.
+
+Wrote and reviewed documentation/user guides/training material as required and posted them through Library.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project-1
+
+
+
+Employer                                     : Genpact
+
+Client                 			: GE
+
+Duration                   		: July 2017 –Jan 2018
+
+Project Type			          : Rollout and Support
+
+          Environment                               : SAP FI
+
+Role		                              : Team Member SAP FI/CO
+
+Team Size                                   : 10
+
+
+
+Project Description:
+
+
+
+General Electric Company (GE) is an American multinational conglomerate incorporated in New York City and Head Quarter in Boston. As of 2018, the company operates through the following segments: aviation, healthcare, power, renewable energy, digital industry, additive manufacturing, venture capital and finance, and lighting.
+
+
+
+Roles & Responsibilities: 
+
+	
+
+Worked on interfaces and Batch Job monitoring on daily basis.
+
+Involved in creating test scenarios and test cases that are in alignment with functional requirements.
+
+Executes and statuses test cases, including proof of testing using Testing tool Work soft.
+
+Involved in Unit testing Integration testing and Regression testing.
+
+Handled Low Priority tickets of End-user queries through the Ticketing tool Remedy.
+
+Interacting with end-users (if required) for more information through Skype Meeting / Mails for requirements gathering
+
+Collection of other core information on client’s requirements.
+
+Attended Knowledge Transfer sessions & updated knowledge with new issues coordinating with the client for giving acceptable solutions to issues within a priority.
+
+Giving the solutions to low and medium tickets.
+
+Ensure customer satisfaction before closing the issues.
+
+Helped and guided team members in learning the FI topics which are required to work on the deliverables assigned to the team.
+
+Resolving configuration issues & assisting other team members.
+
+Imparting training to the end-user for GL, AP, and AR & AA sub-modules of FI.
+
+Preparation of end-user manuals for training purpose of FI module
+
+Resolving end-user issues in the area of FI.
+
+Preparations of test scenarios for FI sub-modules like GL, AP, and AR.
+
+Preparations of Test cases for FI sub modules. 
+
+Executions of test scripts for FI sub modules. 
+
+Preparations of user manuals for FI sub modules. 
+
+Resolving the issues while executing the test scripts. 
+
+Sending the daily status report to the onshore business team. 
+
+Conducting the daily status call with the business team for updating the execution of Scenarios.
+
+Work Experience-Non-SAP:
+
+Project # 1: 
+
+	                    Employer           : Genpact
+
+	                    Client	   : Heineken
+
+	                    Duration	   : June  2014 – June 2017
+
+	                    Project Type	   : Account Payables (End User)
+
+
+
+
+
+Project Description:
+
+
+
+Heineken is one of the world’s biggest brewers and is committed to remaining strong and independent. The brand is named after the founder’s name – Heineken -can be found all around the world. Heineken has become one of the most valuable international premium beer brands since the last century and it is still growing stronger.
+
+
+
+
+
+
+
+
+
+Responsabilités :
+
+
+
+Check, verify and tally the correctness of merchandize as against invoice documents.
+
+Verify and tally payments received from customers.
+
+Reconcile and tally customer balances with ledger accounts and invoices details.
+
+Verify and tally salaries as against payroll forms			
+
+Processing check payment of client employees, detecting the fraud checks and reporting to the fraud control team.
+
+Reconcile and check the out of balances in the accounts.
+
+	Perform daily, monthly, quarterly, and quality audits of accounts.
+
+Assemble, review and verify invoices and check requests. 
+
+Flag and clarity any unusual or questionable invoices item or prices. 
+
+Sort, code, and match invoices. 
+
+Prepared standard operating procedure SOPs and excel sheets for easy understanding. 
+
+Set invoices up for payment. 
+
+ Enter and upload invoices into payment. 
+
+ Research and resolve invoices discrepancies and issues. 
+
+ Handle month-end work. 
+
+Prepare daily activities in excel sheet.

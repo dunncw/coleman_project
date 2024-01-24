@@ -1,0 +1,265 @@
+Candidate TERTW04
+
+
+
+Academic Qualifications
+
+
+
+Degree 
+
+College
+
+University
+
+Percentage
+
+B.E 
+
+V.E.S.I.T
+
+Mumbai University
+
+65% 
+
+H.S.C
+
+C.H.M College
+
+Maharashtra State Board
+
+72.33% 
+
+S.S.C.
+
+N.E.H.S
+
+Maharashtra State Board
+
+77.38% 
+
+                            
+
+Technical Skills
+
+Good exposure to SAP PI 7.31, 7.4 & CPI-DS Systems and its features.
+
+Worked on implementation project for integrating SAP ECC, S4HANA, SQL, Hana CDS views,FILE and IBP 1911 (Integrated Business Planning) system as a CPI-DS developer (Cloud Platform Integration Data Services).
+
+Hands-on experience in implementation project wherein experience to install HCI Agents, create Project, Process, tasks, Dataflows, Datastores.
+
+Integration Flows (iFlows), Integrated Configuration (ICO) Objects and Configuration (Classic) Scenarios – Creation, Deploy and Configurations.
+
+Well expertise with the Design objects, Mappings, Configuration objects, Adapters and end-to-end Interface monitoring.
+
+Mapping – Graphical and Java Mappings.
+
+Have a strong knowledge in all categories of mapping standard functions like Node Functions, and developed a few custom mapping functions (UDFs).
+
+Good experience in SAP Native adapters like iDoc, Mail, and Proxy and Technology adapters like File, JDBC, SFTP and SOAP messaging adapters.
+
+Knowledge on various Standard SAP Modules – RequestResponseBean, MessageTransformBean, and PayloadSwapBean, and etc.
+
+Used CTS+ techniques to transport PI/PO Objects to Test environments.
+
+Extended support during the Post Go Live Support (PGLS) period.
+
+Good knowledge and little Hands-on experience in SAP CPI-PI(Cloud Platform Integration) using Web-UI.
+
+
+
+Employment – IV
+
+
+
+Ernst & Young Global limited                                                                         4 months
+
+SAP PI-PO/CPI-DS senior consultant.                                                             11th Jan 2021
+
+
+
+Experience:
+
+
+
+Currently working in SAP PI-PO migration project for Campbell soup client.                       
+
+
+
+
+
+Employment – III
+
+Deloitte  Consulting               			     			 2.3 Years
+
+CPI-DS Consultant				                                           Oct 2018– Jan 2021
+
+
+
+Experience:
+
+Having 2.3 years of extensive experience in building, Testing,Transporting CPI-DS interfaces of Cargill Project in Mumbai.
+
+		
+
+		Project #1
+
+					
+
+					Client		: Cargill
+
+					Location	: Mumbai
+
+					Team Size	: 1
+
+					Environment	: CPI-DS 
+
+					Duration	: Oct 2018 to Jan 2021
+
+					Role		: Consultant.
+
+			
+
+Responsibilities
+
+	
+
+	Worked as CPI-DS Consultant in implementation project for client (US based Cargill company).
+
+	Work involved building new interfaces, going through functional specification, making technical documents, build, Technical Unit test documents.
+
+	Configuring Inbound interfaces involves transfer of data from S4HANA to IBP system and Outbound interface from IBP system to S4HANA involving webservice call.
+
+	Configuring Inbound interfaces involves transfer of data from ECC to IBP system and Outbound interface from IBP system to ECC involving webservice call.
+
+	Configuring Inbound interfaces involves transfer of data from file to IBP system and Outbound interface from IBP system to file involving file adapter.
+
+	Worked on Aggregation Logic (Summation, Count, Max, Min, Average) made technical weeks logic for a project requirement.
+
+	Worked on various functions in CPI-DS like AddMonths, NVL (Null Value replacement), Is_Group_Changed, Cast, etc.
+
+	Knowledge of scheduling tasks, processes & transport objects from development to production phase.
+
+	Configured ‘Process’ for controlling the order of data to be loaded in IBP system.
+
+	Experience in debugging issues which come after execution by studying TRACE/ Monitor/Error logs.
+
+	Worked on both inbound and outbound scenario's from S4 HANA to IBP and vice-versa.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Employment – II
+
+Accenture Software Solutions                			       1.5 Years
+
+SAP PI/PO Consultant				                            April 2017 – Oct 2018
+
+
+
+Experience:
+
+Having 1.5 years of extensive experience in Application Development, Testing support and Application Maintenance & Support, and support a numerous SAP PI Projects in Accenture.
+
+		
+
+		Project #1
+
+					
+
+					Client		: Sun Chemical.
+
+					Location	: Mumbai
+
+					Team Size	: 3
+
+					Environment	: SAP PI 7.31
+
+					Duration	: April 2017 to Oct 2018
+
+					Role		: Application Development Analyst.
+
+			
+
+Responsibilities
+
+	
+
+Involved in technical workshops to get the inputs required from the key users to build the interfaces on SAP PO System.
+
+	Prepared Technical Specifications and Unit Test Plan (UTP) Documents.
+
+	Objects transportation from Dev system to all Test environments using CTS+ Transport mechanism.
+
+	Handled the Incidents raised effectively including several business-critical issues in Prod environment.
+
+Built Java Mapping objects and worked on numerous Change Requests.
+
+	Actively participated in all the Test phases and quickly fixed the bugs raised.
+
+	Configured various adapters like – File, SFTP, JDBC, iDoc, Mail, Proxy and SOAP.
+
+Groomed a junior level resource to handle the project after me individually.
+
+	
+
+
+
+
+
+Employment - I
+
+Infosys 				                			         2.3 Years
+
+SAP PI Consultant							          Jan 2015 – March 2017
+
+
+
+Experience:
+
+Had 2.3 years of extensive experience in Development, Testing and Support of Syngenta SAP PI Projects in Mangalore Karnakata.
+
+		
+
+		Project #1
+
+					
+
+					Client		: Syngenta
+
+					Team Size	: 50
+
+					Environment	: SAP PI 7.4
+
+					Duration	: 2.3 Years
+
+					Role		: System Engineer
+
+			
+
+Responsibilities
+
+	Developed MDM interfaces using SAP PO 7.4, in parallel supported the migration of interfaces from SAP PI 7.1 dual stack to SAP PO 7.4 single stack.
+
+	Prepared Functional Description (FD), Technical Description (TD) and Unit Test Plan (UTP) documents parallel to the build part.
+
+	Developed all objects in HCI-DS using Pub-Sub Model.
+
+	Configured various adapters like – File, JDBC, iDoc, Proxy, RFC, Mail and SOAP.
+
+
+
+Page 1 of 4

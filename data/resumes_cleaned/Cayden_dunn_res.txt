@@ -1,0 +1,87 @@
+Cayden Dunn			                           Email: Caydendunn2121@gmail.com
+
+Arlington, VA					                Phone: 860-412-4687
+
+
+
+SUMMARY 
+
+As a versatile machine learning engineer and computer scientist, I specialize in SKlearn, Apache Spark, Databricks, Azure, SQL, and Python. My focus is on process automation, discerning novel problem spaces, and emphasizing not every problem needs a machine learning solution.
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer @ ClearForce | Vienna VA | Dec 2021 - Current 2024
+
+Developed model to win 300,000$ contract and partnership with Virginia VA to prevent veteran suicide using SKlearn, DataBricks, Apache Spark, MLFlow, and SQL
+
+Automated data processing to create visualizations for business teams using Python and PowerBI
+
+Computer scientist @ Medical University of SC, Mulholland Neuroscience Lab
+
+Charleston SC | Nov 2020 - Nov 2021
+
+Integrated behavioral analysis into brainwave analysis studies using Raspberry Pi and OpenCV
+
+Assisted in creating 3D brain renderings with varying protein stains using Imaris
+
+Processed data collected from nodes in mouse brains using KiloSort and MATLAB
+
+Frontend Developer (Internship) @ Ability Beyond | Remote, Danbury Ct | May 2020 - Aug 2020
+
+Automated shift scheduling for non-profit, reducing required shift managers, by creating a web app using Flutter.
+
+College Tutor @ College of Charleston | Charleston SC | Aug 2019 - May 2022
+
+Tutored other college age students in Math and Computer Science topics.
+
+
+
+PUBLICATIONS
+
+Dunn, C., Navid, H., (2023). “Gestalt: Combining GPT Language Models and Computational Knowledge Engines.” URI: https://hdl.handle.net/10125/107007 PDF
+
+Dunn, C., Kris, G., (2023). “BicePy: Bilingual Description of Compiler Errors in Python.” DOI: 10.1109/VL-HCC57772.2023.00038 PDF
+
+Dunn, C.,Kris G., (2023) “Fingerprinting of Malware Families Under Uncertainty.” IFIP PDF
+
+
+
+EDUCATION
+
+College of Charleston | Master of Science in Data Science and Analytics | Aug 22’ to June 23’
+
+ GPA 4/4
+
+ 1st place College of Charleston Graduate Poster Session
+
+College of Charleston | Bachelor of Science in Computer Science | Aug 18’ to Aug 22’
+
+GPA 3.78/4
+
+Honors: Magna Cum Laude, Achieved President's list 5 semesters, Achieved Dean's list 3 semesters
+
+Relevant Activities: Cyber security club member, Women in STEM club member, Club Lacrosse Captain 
+
+Stanford Online | Machine Learning Certificate | Dec 20’ to Aug 20’
+
+Coursera Course taught by Andrew Ng that builds foundational concepts of Machine learning models.
+
+
+
+VOLUNTEER
+
+REACH | mentor | Sandy Hook, CT | Sep 2015 - June 2018
+
+Provided one-to-one social and academic support to mentees (at-risk youth)
+
+Ben’s Lighthouse | Volunteer/Representative | Sandy Hook, CT | July 2014 - June 2018
+
+Crew team member in Greely, Colorado. Repaired homes damaged by flooding. Met and shared experiences with the survivors of the Columbine School shooting.
+
+
+
+INTERESTS
+
+Video games, AI, Longevity, Lacrosse, Hiking, Climbing, Automation, Building PC’s, Keyboards

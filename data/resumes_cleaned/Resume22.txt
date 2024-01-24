@@ -1,0 +1,159 @@
+Candidate 0345435
+
+Skills
+
+Technologies
+
+Standard: JDBC, Jakarta EE, Git, Jakarta Servlet
+
+Data: MySQL, Snowflake, Apache Kafka, Apache Airflow, PostgreSQL, Oracle RDBMS, PySpark, Amazon DynamoDB
+
+Framework: Pandas, Mockito, Spring-WS, Apache Log4j 2, Spring WebFlux, ehCache, Spring Security, Hibernate, JAXB, JUnit 4, Spring Core, Apache Maven, Spring Data, JUnit, Apache Spark, Apache Hadoop, JPA, Spring MVC, Spring Boot, Gradle
+
+IDE: Jupyter Notebook
+
+Other: Cloud Platforms, Kubeflow, AWS Cloud Development Kit
+
+Library: JSTL
+
+Web/Application Server: Apache Tomcat
+
+Computer Language: Java 11, Scala 2, Java 14, Java, SQL, Kotlin, T-SQL, Python, Java Programming Languages
+
+Solution: Amazon EMR, Gitlab, Apache Ant, JBoss EAP, AWS Glue, Amazon S3, AWS Lambda, Visual Studio Code, Thymeleaf, Apache Tiles, Jenkins, Apache Struts, BitBucket, GitHub, Apache Velocity, Jira, Flyway, Sonar
+
+Operating System: Linux
+
+Platform: Amazon Web Services, EJB, Docker, Kubernetes
+
+Work experience
+
+Oct-2022 - Till now (Oct-2023) - Senior Software Engineer, 
+
+Team Size: 4 Data Engineers, 1 SA, 1 DM, 1 DevOps
+
+Project Roles: Developer
+
+Responsibilities: 
+
+Creating data pipeline using Spark Structured Streaming (Scala)
+
+Implementation and support Datacollector module
+
+Optimizing current pipelines
+
+Bugfixing
+
+Tools and Technologies: Grafana, Apache Spark (Scala), MinIO, K8s, Akka, Akka Streams, Apache Kafka, GEL (Grafana, Elasticsearch, Logstash), Prometheus
+
+
+
+Dec-2021 - Sep-2022 - Senior Software Engineer, 
+
+Project Description: Enterprise Data & Analytics - Data, DevOps and Python team
+
+Team Size: - Product owner
+
+- Scrum master
+
+- Two developers
+
+- Five data scientists
+
+- Three Data Engineers
+
+Project Roles: Data Engineer
+
+Responsibilities: 
+
+Supporting and an imlementation of new functionality for existing Data/ML pipeline using Apache Spark, Pandas, Airflow, Hyperflow, Snowflake, Python
+
+Improvment of exising Data/ML pipeline using software engineering excellence guide
+
+Design and implementation a new data pipeline for EMEA region
+
+Bugfixing, writing tests
+
+Improving code review process/code quality
+
+Architecture discussions with principal engineer
+
+Communication with the customer
+
+supporting data scientists in releasing ML models into PROD
+
+Tools and Technologies: Jira,  Github Enterprise, Miro, Jupyter notebook, PyCharm, Apache Spark, Pandas, AWS S3/EMR, Nike Data Platform, Snowflake, Python, HyperFlow, Apache AirFlow
+
+
+
+Dec-2020 - Sep-2021 - Senior Software Engineer
+
+Project Description: Digital Retail
+
+Team Size: Two team leads
+
+four developers
+
+four data scientists
+
+business analyst
+
+solution architect
+
+product owner
+
+scrum master
+
+Project Roles: Key Data Engineer
+
+Responsibilities: 
+
+Implementation of new services using Lambda functions, ApiGateway, AWS Python CDK and etc
+
+Implementation of logic for collecting statistics on new datasets using AWS Glue and Pyspark
+
+Updating existing ETL pipeline to process new data
+
+Automating the process for creating/updating/deleting/copying alerts and dashboards
+
+Working on PoC
+
+Module architecture designing
+
+Improving code review process
+
+Improving code quality
+
+Architecture discussions
+
+Communication with the customer
+
+Tools and Technologies: DynamoDB,  Athena, Rally, NewRelic, Github Enterprise, Sonar, Miro, Python 3, AWS: S3, DynamoDB, Athena, Lambda, Glue jobs (PySpark), SNS, API Gateway, KMS, CodeBuild/CodeDeploy, Cloudformation, Secrets Manager, Route 53, CloudWatch
+
+
+
+May-2020 - Sep-2020 - Software Engineering
+
+Project Description: VTBB-ULPM, the goal of the project is to create a single platform for loyalty programs of the VTB Bank and Pochta Bank with the next transformation of the solution into a White Lable product. The current solution is located in the multibonus.ru domain and combines programs Cash-back, Miles and Bonuses
+
+The implemenation uses a microservice approach, appropriate set of design patterns and a modern technology stack: PostgreSQL, Apache Kafka, Debezium, Zebee,  Apache Airflow, Apache NiFi, Elasticsearch and others
+
+The main language for implementation is Java, and Yandex.Cloud is a platform for deployment
+
+The project integrates with such external services as Uniteller and Payture, FIAS и DaData services, list of external partners and online stores such as Kinohod, Biletix, Red Kassa and others
+
+Team Size: Dev team: 3 members
+
+Project Roles: Developer
+
+Responsibilities: 
+
+Implementation new features and supporting the VTB multibonus project that provides different bonuses for clients using Apache Kafka, Spring Framework, Java 11 and other technologies
+
+Worked on an implementation for microservices such as Chat service, Fias service, Order service, ClientProfile service and etc
+
+Worked on PoC for uploading a large of data to db using Spring Jdbc and Postgresql
+
+Writing technical documentation
+
+Tools and Technologies: Postgresql, InelliJ IDEA, Git, Notepad++, Postman, SonarQube, Kibana, Grafana, Java 11, Maven, JUnit, Mockito, Spring Framework(Core, Data, Cllud, Rest, Cache), Spring Boot,  Apache Kafka, Zebee, Docker, Flyway

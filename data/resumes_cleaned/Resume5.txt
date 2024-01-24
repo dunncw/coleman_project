@@ -1,0 +1,535 @@
+CANDIDATE 34230
+
+
+
+Educational Background:
+
+Qualification: B. tech (Electronics and Communication Engineering)
+
+Period: October 2010- June 2014
+
+Institute: KSRM College of Engineering, KADAPA.
+
+
+
+Professional Summary:
+
+ Experience working in design, implement, testing and deliver for all O2C and Rating scenarios using SAP Convergent Charging 
+
+ Experience on pricing structure implementations and configuring the charge Plans in SAP Convergent Charging Module. Has experience in designing and implementing charge, and allowance plans as per the requirements for Post-paid scenario. 
+
+ Experience in subscription order management for offer to fulfilment and consume to cash scenario’s including business agreements, partner agreements and master agreements. 
+
+  Playing Major role in the various kinds of testing of the plans in SAP CC with the Mediation Zone (Digital Route).
+
+  E2E experience and in-depth knowledge on SAP Convergent Charging product. Well versed with system architecture includes CORE server.
+
+  Technical expertise on behaviour of CC architecture and core instances of Dispatcher, Updater, Guider, Rater & Bulk loader during offline charging scenario’s and to scale the system for large volume businesses.
+
+  Expertise on SAP CC landscape from installation to operational. Having full exposure on system configurations at the fullest in terms of high availability and performance tuning for huge volume transactions.  Expertise in subscription and order management (CRM), billable item integration, billing & invoicing processing (FICI) within SAP Hybris Billing & Invoicing. 
+
+ Experience in integrating and configuring the billable Items, charged items for billing and invoicing process executions in convergent invoicing (CI) system. 
+
+Extensive experience in Testing the SAP charge plan by using Jmeter regression testing tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Project Profile 1: (Capgemini India Private Limited)
+
+	1
+
+	Project Name: SAP Cloud
+
+Client
+
+                                           SAP
+
+Role
+
+Consultant
+
+Organization 
+
+Capgemini India Private Limited
+
+Duration
+
+March 29-2021
+
+To Present
+
+Team Size
+
+13
+
+Environment
+
+(With Skill Versions)
+
+Tools: Core tool 5.0, SAP CM 8.1, SAP ECC 760, WinSCP, Putty. SOAP UI, Jmeter, Jenkins
+
+  O/S: Windows 10
+
+
+
+Project Responsibilities: -
+
+
+
+•	Overall 4+Years’ Experience on SAP Convergent Charging and SAP BRIM solution.
+
+•	Experience in Configuring of Master data in SAP Convergent Charging Core tool
+
+
+
+•	Having experience on pricing implementation and configure the charge Plans.
+
+•	Having experience in designing and implementing charge, allowance plans as per the Business requirements for post-paid scenarios.
+
+•	Good in defining Price Plans, Chargeable Item classes, Creation of Translation Tables, Chargeable Item Classes, Pricing Macros.
+
+•	Maintaining Billable item classes, defining Billing process, invoicing process.
+
+•	Testing of SAP CRM, SAP CC,CM, SAP CI functionalities. 
+
+•	Bug analysis with the Other technical team and business, regressing the resolved bugs
+
+•	Have Experience on Manual Testing and Knowledge on performance testing and RegressionTesting 
+
+•	Willing to learn and adapt to new challenges
+
+•	Possess strong interpersonal skill, which provides the ability to interact with End-Users, Managers, Technical Personnel, etc. 
+
+•	Self-motivated, quick learner, team player and have excellent work ethics
+
+•	Team oriented with strong analytical and leadership qualities
+
+
+
+     Project Profile 2: (DXC Technologies)
+
+	1
+
+	Project Name: CSC-Consumption Charging
+
+Client
+
+                                           CSC 
+
+Role
+
+Technical Consultant
+
+Organization 
+
+EIT Services India Private Limited (DXC Technologies)
+
+Duration
+
+March 03-2020
+
+To Present
+
+Team Size
+
+3
+
+Environment
+
+(With Skill Versions)
+
+Tools: Core tool 4.0, SAP CM 6.0, SAP ECC 6.0, WinSCP, PuTTY
+
+  O/S: Windows 10, windows 7
+
+
+
+
+
+Project Responsibilities: -
+
+
+
+•	Overall 3+Years’ Experience on SAP Convergent Charging and SAP Convergent Invoicing/SAP BRIM.
+
+•	Experience in Configuring of Master data in SAP Convergent Charging Core tool, 
+
+•	Setting up the BART, Bulk loader and IEC.
+
+•	Customer data like Subscriber Account, provider Contract, mapping table which will hold all the functionalities required for CDRs to get rated and Bits to flow to SAP CI system
+
+•	Processing of input files through IEC (import-export connector) and BART (Batch Acquisition and Rating tool).
+
+•	Acquiring data in Batch Acquisition Rating Tool and Rating the Consumption Data Records in BART. 
+
+•	Billing, Invoicing and generation of Smart form for the rated BITS through ECC(SAP-SD) System
+
+•	Good in defining Price Plans, Chargeable Item Packages, Charge Plans, Creation of Translation Tables, Chargeable Item Classes, Pricing Macros.
+
+•	Maintaining Billable item classes, defining Billing process, invoicing process.
+
+•	Testing of SAP SD, SAP ECC functionalities. 
+
+•	Bug analysis with the technical team and business, regressing the resolved bugs
+
+•	Have Experience on Manual Testing and Knowledge on performance testing and Integration Testing.
+
+•	Willing to learn and adapt to new challenges
+
+•	Possess strong interpersonal skill, which provides the ability to interact with End-Users, Managers, Technical Personnel, etc. 
+
+•	Self-motivated, quick learner, team player and have excellent work ethics
+
+•	Team oriented with strong analytical and leadership qualities
+
+
+
+Specialties: 
+
+Telecom Billing
+SAP Convergent Charging
+SAP Billing & Revenue Innovation Management/SAP Hybris Billing (CC, CRM, and CI)
+
+Web services (XML)
+
+
+
+     Project Profile 2: (TEKsystems)
+
+	1
+
+	Project Name: CSC-Consumption Charging
+
+Client
+
+                                           CSC 
+
+Role
+
+Technical Consultant
+
+Organization 
+
+TEKsystems
+
+Duration
+
+Dec 13-2017
+
+To March 02 -2020
+
+Team Size
+
+3
+
+Environment
+
+(With Skill Versions)
+
+Tools: Core tool 4.0, SAP CM 6.0, SAP ECC 6.0, WinSCP, PuTTY
+
+  O/S: Windows 10, windows 7
+
+
+
+
+
+Project Responsibilities: -
+
+
+
+•	Overall 3+Years’ Experience on SAP Convergent Charging and SAP Convergent Invoicing/SAP BRIM.
+
+•	Experience in Configuring of Master data in SAP Convergent Charging Core tool, 
+
+•	Setting up the BART, Bulk loader and IEC.
+
+•	Customer data like Subscriber Account, provider Contract, mapping table which will hold all the functionalities required for CDRs to get rated and Bits to flow to SAP CI system
+
+•	Processing of input files through IEC (import-export connector) and BART (Batch Acquisition and Rating tool).
+
+•	Acquiring data in Batch Acquisition Rating Tool and Rating the Consumption Data Records in BART. 
+
+•	Billing, Invoicing and generation of Smart form for the rated BITS through ECC(SAP-SD) System
+
+•	Good in defining Price Plans, Chargeable Item Packages, Charge Plans, Creation of Translation Tables, Chargeable Item Classes, Pricing Macros.
+
+•	Maintaining Billable item classes, defining Billing process, invoicing process.
+
+•	Testing of SAP SD, SAP ECC functionalities. 
+
+•	Bug analysis with the technical team and business, regressing the resolved bugs
+
+•	Have Experience on Manual Testing and Knowledge on performance testing and Integration Testing.
+
+•	Willing to learn and adapt to new challenges
+
+•	Possess strong interpersonal skill, which provides the ability to interact with End-Users, Managers, Technical Personnel, etc. 
+
+•	Self-motivated, quick learner, team player and have excellent work ethics
+
+•	Team oriented with strong analytical and leadership qualities
+
+
+
+Specialties: 
+
+Telecom Billing
+SAP Convergent Charging
+SAP Billing & Revenue Innovation Management/SAP Hybris Billing (CC, CRM, and CI)
+
+Web services (XML)
+
+
+
+Project profile 3: (Vodafone India)
+
+
+
+	2
+
+	Project Name: ICCS Vodafone Post-paid Billing
+
+Client
+
+Vodafone Ireland
+
+Role
+
+ Senior Executive
+
+Organization 
+
+Vodafone India Pvt Ltd
+
+Duration
+
+               Jan 19-2017 to Dec 1-2017
+
+Team Size
+
+10
+
+Environment
+
+(With Skill Versions)
+
+Tools: Amdocs Billing, Amdocs CRM, SAP ERP, Citrix, Toad, ICCS Billing System.
+
+O/S: Windows 7, VMware 6.1
+
+
+
+
+
+
+
+
+
+Project Responsibilities: -
+
+Primary responsibilities include handling issue raised by the client on Billing System and ensuring it is done on a timely Basis
+
+Involved in hybris billing end to end implementations.
+
+Involved in configuration charge plan, Mapping tables, charge codes in SAP CC by using core tool.
+
+Strong functional knowledge with consultant experience in SAP SD & SAP ECC. 
+
+Also handling various configurations that include Tariff configuration, creation and modification of rate plans and updating it to Billing System. Configuring
+
+the rate plans, promotions, facilities, customer types, products etc. as per the requirements.
+
+Performing the rating for different call types like Voice, SMS, MMS, Data etc.
+
+Billing & invoicing the customers, Checking the Invoice generated for the Billed charges, rentals etc.
+
+Evolution of Rating and charging tables as per customer Type.
+
+Analysis errors in charging tables and give proper root cause analysis to L1&L2 support Team.
+
+Administrating the Billing Systems and Managing the Billing Team.
+
+The new Business requirements, providing the solution and configuring or implementing on Billing system.
+
+Ensuring & monitoring smooth Bill generation at the end of Bill cycles with Pre & Post Bill run checks.
+
+Training & Knowledge sharing among team on billing systems & Processes.
+
+Providing solutions for the Business requirements of the Telecom Billing 
+
+
+
+
+
+
+
+
+
+Project Profile 4: (Zenith Systems)
+
+	3
+
+	Project Name: TELUS Hercules Post-paid
+
+	Client
+
+	TELUS Mobility
+
+	Role
+
+	Associate Software Engineer
+
+	Organization 
+
+	Zenith systems
+
+	Duration
+
+	APR 15-2016 To Jan 10-2017
+
+	
+
+	
+
+	Team Size
+
+	5
+
+	Environment
+
+	Tools: Core Tool 4.1, Jenkins ,Auto regression tool ,Putty,WinSCP ,DR Mediation Zone.
+
+	(With Skill Versions)
+
+	OS : Windows 7 ,windows XP ,Linux
+
+	 
+
+	 
+
+
+
+Project Responsibilities: 
+
+Working on SAP Convergent Charging. 
+
+Have strong knowledge on Charge, Usage, Allowance, Recurring, One-time Price Plan, Range Table, Tier Table, Mapping Table and Pricing Macro in SAP CC. 
+
+Have decent knowledge of XML API and Web services used in SAPCC and how to integrate it with other application like Mediation Zone
+
+Have good knowledge on SAP CRM , CC and CI integration.
+
+ Participating in client calls and involved in the requirement gathering from the clients. 
+
+Reviewing the BR, FRs and designing the application architecture along with the onsite team.
+
+ Code fixing and maintenance of the application. 
+
+ Working on development in Post-paid charging and rating on core tool
+
+ Working on automation of configuring offers from EPC to SAP CC. 
+
+ Worked on testing using auto regression tool. 12. Worked on production defects resolutions. Analysing
+
+Unit testing, Test supporting & defect fix. 
+
+Supporting Pre-prod environments on system level and functional issues
+
+
+
+
+
+
+
+Project Profile 5: (Sinaz Techsol India Private Limited)
+
+
+
+	4
+
+	Project Name: Vodafone India Postpaid
+
+	Client
+
+	Vodafone
+
+	Role
+
+	Software Engineer
+
+	Organization 
+
+	Sinaz Techsol Private Limited
+
+	Duration
+
+	Sep -2015 to Apr -2016
+
+	
+
+	
+
+	Team Size
+
+	12
+
+	Environment
+
+Tools: Amdocs CRM 6.1, Amdocs Billing 6.0, Mediation Zone, HP QC, Load runner, Java 8
+
+Enabler: Amdocs CES 7.5
+
+	O/S: Windows XP, Unix
+
+	(With Skill Versions)
+
+	
+
+	 
+
+	 
+
+	
+
+	
+
+Project Responsibilities: -
+
+Involving in Customer Resource Management Testing .
+
+Configure /export from Provisioning systems to Amdocs Billing . 
+
+Involved in Functional Testing, system integration Testing in Customer Life Cycle Value.
+
+Involved in Test scenarios, Test cases and test data preparations.
+
+Worked on Amdocs Billing system, CRM
+
+Worked on AMC, AR, ARCM
+
+Worked on Amdocs rating and charging configuration.
+
+Given root cause analysis of charging issues.
+
+
+
+
+
+Other Skills: 
+
+
+
+Having knowledge in Core Java , Manual testing ,Jenkins

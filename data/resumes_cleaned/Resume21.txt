@@ -1,0 +1,65 @@
+Candidate ABS
+
+
+
+
+
+EDUCATION
+
+
+
+Fairleigh Dickinson University 
+
+Bachelor of Arts - Psychology, Madison, NJ, B.A. Jan 2017; (GPA 3.96/4.0 in major)
+
+
+
+
+
+EXPERIENCE
+
+Anywhere Real Estate Inc., Madison, NJ, Jan 2023-Current
+
+Senior Product Manager
+
+
+
+Anywhere Real Estate Inc., Madison, NJ, May 2022-Jan 2023
+
+Technical Product Manager
+
+
+
+Responsible for overseeing a group of six SaaS products in various product lifecycle stages,  encompassing six prominent real estate brands. Worked cross-functionally with multiple development teams in an agile environment. 
+
+
+
+Key Accomplishments:
+
+Collaborated with the development team to integrate customer tracking analytics tools, with an average NPS score of 33.
+
+Worked with the development team to implement automation, saving approximately 7 hours for each production release.
+
+Performed market research and competitive analysis through surveys and user interviews to identify product opportunities and deliver enhancements to products.
+
+
+
+
+
+Sotheby’s International Realty Affiliates LLC, Madison, NJ, January 2020-May 2022
+
+Interactive Marketing Specialist, March 2022-May 2022
+
+Interactive Marketing Coordinator, January 2020-March 2022
+
+
+
+Brand Product Owner for the ListSync syndication management application and ListTrac analytics reporting suite. Worked cross-functionally with a development team in an agile environment. Presented to the Sotheby’s International Realty affiliate network on updates to syndication initiatives and product updates. Subject matter expert on all REST APIs, encompassing API enhancements and data integrations for all Sotheby’s International Realty vendors.
+
+Key Accomplishments:
+
+Enhanced dash API, resulting in an 11% increase in media exposure opportunities for Sotheby’s International Realty affiliates.
+
+Implemented redesigned UI for ListSync syndication management application, resulting in a modernized appearance and enhanced performance for Sotheby’s International Realty affiliates.
+
+Improved ListSync syndication management application with a brand photo resolution requirement, resulting in a 10% reduction in 404 pages to sothebysrealty.com via redirect links from syndication websites.

@@ -1,0 +1,910 @@
+ 
+ 
+ 
+ 
+CANDIDATE 567
+ 
+ 
+ 
+ 
+      
+ 
+ 
+Certified 
+in 
+SAP S4 
+HANA
+ 
+FI
+ 
+1809.
+ 
+ 
+Having 
+total of 9.5 
+
+ 
+in SAP Project Implementation, Rollout, Upgradation and Support 
+Project
+. 
+Along 
+with 2
+ 
+years in 
+Finance domain 
+experience.
+
+ 
+SAP S4 Hana 
+Treasury
+ 
+
+ 
+SAP BAM, BCM
+, New Cash Management
+ 
+(FSCM)
+ 
+
+ 
+SAP Collection Manage
+ment
+ 
+(FSCM)
+    
+    
+ 
+
+ 
+Fiori Apps
+ 
+
+ 
+SAP GL, AP, AR
+          
+ 
+
+ 
+SAP Credit Management (FSCM)
+                        
+ 
+
+ 
+SAP Dispute 
+Management
+ 
+(FSCM)
+ 
+ 
+PROFESSIONAL EXPERIENCE
+ 
+ 
+ 
+ 
+IBM INDIA PVT LTD.
+ 
+ 
+SAP Treasury, June 2021
+ 
+
+ 
+present
+                                                           
+         
+Client: 
+British American Tobacco
+ 
+ 
+
+ 
+Have worked on
+ 
+Money market, Security, Mutual Funds, Bonds, 
+ 
+
+ 
+Supported and involved in development / enhancements in the modules of Money market, 
+foreign
+ 
+exchange and 
+Security, Mutual Funds, Bonds,
+ 
+
+ 
+Mirror Transaction configuration for Intercompany loan.
+ 
+
+ 
+Bank relationship, Cash pooling Memo records.
+ 
+
+ 
+Rules creation, P
+ayment Batching, Release strategies Approvals, Payment file monitoring, Bank statement 
+Monitoring.
+ 
+
+ 
+Test data and test case preparation for User Acceptance/Regression Testing.
+ 
+
+ 
+
+business process.
+ 
+
+ 
+Responsible for preparing Test Cases for various testing scenarios in Treasury and Loans Management module.
+ 
+
+ 
+Provide key
+-
+User Training and support integration and user acceptance testin
+g.
+ 
+ 
+WIPRO 
+LIMITED,
+ 
+BANGALORE
+ 
+ 
+SAP 
+Treasury
+, Nov
+ 
+201
+8
+ 
+
+ 
+June 2021                                                                
+Client: 
+Wipro Limited 
+ 
+ 
+ 
+Worked on Project Implementation of Business process study, User Business requirement study, 
+Blueprint
+ 
+phase, 
+Configuration, Realization, Testing and GO
+-
+LIVE Phases.
+ 
+ 
+
+ 
+Product configured Like Money market, Foreign exchange and Security, Mutual Funds, Bonds, 
+ 
+
+ 
+Creation of Business Partner and assigning different roles like counter party, account holder and as
+signing 
+authorizations according to Money.
+ 
+
+ 
+Account determination for all product types
+ 
+
+ 
+Supported and involved in development / enhancements in the modules of Money market, Foreign exchange and 
+Security, Mutual Funds, Bonds,
+ 
+
+ 
+Mirror Transaction configuration
+ 
+for Intercompany loan.
+ 
+
+ 
+Account determination and assignment and integration with all underlying transactions.
+ 
+
+ 
+Merging payments, Defining rules, and Defining responsibilities. 
+Batch level approvals, Bank statement Monitor
+, 
+Planning levels, Planning groups,
+ 
+Cash pooling/Concentration, Memo record.
+ 
+Electronic bank reconciliation.
+ 
+
+ 
+Key Date valuations and position management.
+ 
+
+ 
+Test data and test case preparation for User Acceptance/Regression Testing.
+ 
+ 
+ 
+ 
+
+ 
+Data migration 
+-
+ 
+using
+ 
+LMTC tools for Migration 
+ 
+
+ 
+Standard Reports and Reports development. 
+ 
+
+ 
+Responsible for preparation of test scripts according to the clients business process.
+ 
+
+ 
+Responsible for preparing Test Cases for various testing scenarios in Treasury and Loans Management
+ 
+module.
+ 
+
+ 
+Provide key
+-
+User Training and support integration and user acceptance testing
+.
+ 
+ 
+ACCENTURE SOLUTIONS
+, BANGALORE
+ 
+SAP TRM  Consultant, 
+December 2017
+ 
+
+ 
+October 2018
+                                                
+Client: 
+ABINBEV
+ 
+ 
+Worked on 
+Support 
+Project 
+of 
+Business process study, User Business requirement study
+, 
+Analyzation
+ 
+of 
+the business errors, 
+Configuration
+, 
+Custom development, 
+Realization, Testing and 
+GO
+-
+LIVE Phases.
+ 
+
+ 
+Product configured Money market, Foreign exchange and Security, Mutual Funds, Bonds, 
+ 
+
+ 
+Money Market. Borrowing,
+ 
+Securities Products 
+mapped in TRM
+ 
+Financial Instrument.
+ 
+
+ 
+Term Loan, Fixed Term Deposits, Certificate of Deposits, Short term loan,
+ 
+Short term Loan in Foreign currency, 
+Commercial Paper, Fixed rate Short term, Foreign Letter of Credit (FLC), Floating rate Short term NCD,
+ 
+External 
+Commercial Borrowing (ECB), Export Credit Agency (ECA),Non
+-
+Convertible Debentures (NCD)
+,
+ 
+
+ 
+Involved in produ
+ction support 
+Treasury Management tickets
+ 
+ 
+ 
+ 
+ACCENTURE SOLUTIONS,
+ 
+BANGALORE
+ 
+SAP 
+FI 
+
+ 
+FSCM Consultant 
+, Dec
+ 
+2
+016 
+
+ 
+December
+  
+2017
+                                        
+Client :
+AB INBEV
+ 
+ 
+Worked on Project Implementation of Business process study, User 
+Business requirement study, Blue 
+Print phase, Configuration, Realization, Testing and GO
+-
+LIVE Phases.
+ 
+ 
+Collection Management
+:
+ 
+
+ 
+Configuring Business partner <> Customer and Business partner settings.
+ 
+
+ 
+Define Collection Segments and Collection Profile.
+ 
+
+ 
+Define 
+Collection Rules.
+ 
+
+ 
+Define Collection Strategy with Basic rules & Collection Rules, Valuation, Prerequisites and Conditions.
+ 
+
+ 
+Define Collection Groups and Derivation of Priorities.
+ 
+
+ 
+Define Status Profile, Resubmission Reasons and Case Types.
+ 
+ 
+Dispute 
+Management:
+ 
+
+ 
+Configuring Business partner <> Customer and Business partner <> Vendor settings.
+ 
+
+ 
+Configuring Dispute Management Attribute Profile, Status Profile, Case Types, Profile for Case search 
+ 
+
+ 
+Configuring Dispute Case.
+ 
+
+ 
+Configuring Writing off and closi
+ng the Dispute case.
+ 
+
+ 
+
+ 
+
+ 
+Configuring RMS IDs and Attributes to Dispute Case.
+ 
+ 
+Below Process covered 
+ 
+
+ 
+During processing of an Incoming payment
+ 
+
+ 
+During Customer contact by Collections 
+Specialist
+ 
+
+ 
+Creation of a dispute case
+ 
+
+ 
+Assimilating the information about the dispute
+ 
+
+ 
+Taking decision on dispute case
+ 
+
+ 
+Automatic Updates to Disputes Management
+ 
+
+ 
+Correspondence in Disputes Management
+ 
+ 
+ 
+Supported user community for all finance related queries i
+n ERP system.
+ 
+
+ 
+Involved in pro
+duction support 
+G
+L
+, 
+Treasury, Dispute
+ 
+Management
+.
+ 
+ 
+ 
+ 
+
+ 
+Carried out additional report development & enhancement in existing system using various tools like Report Painter, 
+Repo
+rt Writer, and ABAP query, Functional Specification for 
+customized RICEFW
+, SDP document preparation for 
+rollout project
+ 
+ 
+ACCENTURE SOLUTIONS
+ 
+SAP 
+FSCM 
+ 
+Consultant, 
+November 2015
+ 
+
+ 
+December 2016
+                                               
+Client: 
+Mondelez
+ 
+ 
+ 
+
+ 
+Defining organizational structures: co. Codes for collection Management, Mapping FI co. codes    Defining collection 
+segments, Collection Profiles, Collection groups, Activation of SAP Collection management. MDS 
+
+ 
+Cock pit. 
+Defining BP role for direction
+ 
+customer to BP.
+ 
+
+ 
+Collection Management:  setup for collection strategies, collection work lists, collection Management activities and 
+integration of the collection management with dispute Management & account receivable. Worked on Functional 
+specifications
+ 
+in Collection area.
+ 
+
+ 
+Dispute Management: Responsible for setup for dispute cases and role assignment, processing the dispute case and 
+integration with account receivable. Worked on Functional specification in Disputes area.
+ 
+
+ 
+Responsible for solving the 
+issue during the Unit and & Integration testing
+ 
+
+ 
+Integration with procure to pay, order
+-
+to
+-
+cash and other financial process.
+ 
+
+ 
+Account Receivable: involved in customization of additional billing functionality like down payment, billing plans, 
+configuration fo
+r the dunning ,incoming payments, incoming payments like residuals, partial payments, payment 
+differences like underpayment/overpayment, reason codes and cash application.
+ 
+
+ 
+Involved In regression and integration testing and using test tools like HPQC
+ 
+
+ 
+Testin
+g using test tools like HPQC ALM, data migration, go
+-
+live, conducting user training, preparation user manual 
+and warranty.
+ 
+ 
+ 
+Below Process covered 
+ 
+
+ 
+Transfer of receivables to Collections Management
+ 
+
+ 
+Evaluation of Customer / Business Partner
+ 
+
+ 
+Generation of Work Lists
+ 
+
+ 
+Distribution to Collection specialists
+ 
+
+ 
+Access work lists and re
+-
+prioritization
+ 
+
+ 
+Prepare for customer contact
+ 
+
+ 
+Contact the customer
+ 
+
+ 
+Creation of Promise to pay
+ 
+
+ 
+Renewing a Promise to pay
+ 
+
+ 
+Changing a Promise to pay
+ 
+
+ 
+Withdrawing a Promise t
+o pay
+ 
+
+ 
+Voiding a Promise to pay
+ 
+
+ 
+Updates to promise to pay through Incoming payments
+ 
+
+ 
+Valuation of promise to pay
+ 
+
+ 
+Creation of a Dispute case
+ 
+
+ 
+Notes and Resubmissions
+ 
+
+ 
+Correspondence
+ 
+ 
+Dispute Management:
+ 
+
+ 
+Configuring Business partner <> Customer and 
+Business partner <> Vendor settings.
+ 
+
+ 
+Configuring Dispute Management Attribute Profile, Status Profile, Case Types, Profile for Case search and Etc.
+ 
+
+ 
+Configuring Dispute Case.
+ 
+
+ 
+Configuring Writing off and closing the Dispute case.
+ 
+
+ 
+Create Values for 
+
+ 
+
+ 
+Configuring RMS IDs and Attributes to Dispute Case.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Below Process covered 
+ 
+
+ 
+During processing of an Incoming payment
+ 
+
+ 
+During Customer contact by Collections Specialist
+ 
+
+ 
+Creation of a dispute case
+ 
+
+ 
+Assimilatin
+g the information about the dispute
+ 
+
+ 
+Taking decision on dispute case
+ 
+
+ 
+Automatic Updates to Disputes Management
+ 
+
+ 
+Correspondence in Disputes Management
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACCENTURE SOLUTIONS, BANGALORE.
+ 
+SAP 
+FI
+ 
+Consultant, 
+June
+ 
+2015
+ 
+
+ 
+October 
+2015
+                                  
+Client
+-
+Loblaw Retail SAP FI Support
+  
+ 
+ 
+
+ 
+Responsible for providing support in the areas of General Ledger, Accounts Receivable, Accounts payable, Asset 
+Accounting and on EDI interface part
+ 
+
+ 
+Provided the solutions to user for 
+their problems regarding automatic payment program and Canadian specific 
+payments like PAD.
+ 
+
+ 
+Analyzing the errors, searching for causes of errors, provided corrective solutions and suggested for preventive actions 
+to avoid recurrence.
+ 
+
+ 
+Based on the priority 
+of the issues and the time required to resolve the issue, issues will be resolved within time bound.
+ 
+
+ 
+Work with other functional support team to ensure that all integration issues of changes are covered.
+ 
+
+ 
+Participated in upgradation activities during from EC
+C 6.0 to EHP7
+ 
+ 
+ 
+WIPRO
+ 
+TECHNOLOGIES
+ 
+SAP F
+I 
+
+FSCM
+-
+ 
+TRM
+ 
+Test engineer
+, 
+Jan
+ 
+2
+01
+5
+
+ 
+June
+ 
+2015
+   
+                                  
+   
+Client: 
+JTI
+ 
+ 
+ 
+
+ 
+Responsibilities:
+ 
+
+ 
+ 
+Involved in preparation and peer review of test cases.
+ 
+
+ 
+Involved in functional testing of the application.
+ 
+
+ 
+Bug Reporting using Bug tracking tool 
+
+ 
+HP Quality Center(HP QC) 
+ 
+
+ 
+Involved in Functional Testing, Integration Testing and Regression Testing.
+ 
+
+ 
+Participation in the defect triage calls to aid faster defect resolutions.
+ 
+
+ 
+Preparation of Daily & Weekly status report.
+ 
+
+ 
+Involved in the preparation of Test Scenarios and Test Execution.
+ 
+
+ 
+Raised defects in defect module of HP QC 11.5 and tracked them till cl
+osure.
+ 
+ 
+WIPRO TECHNOLOGIES
+ 
+SAP
+-
+ 
+TRM End user, Aug
+ 
+2
+012 
+
+ 
+Jan 2014                                               
+             
+Client: 
+WIPRO
+ 
+ 
+ 
+Responsibilities
+:
+ 
+ 
+ 
+ 
+
+ 
+Dividend Reinvestment accounting on T+1 basis: by checking mutual fund statements parking of entr
+ies with t
+-
+code 
+FWZZ and posting of the same with t
+-
+code FWZE.
+ 
+
+ 
+Purchase of units: Settlement of parked documents using the t
+-
+code FTR_EDIT and posting of entries with t
+-
+code 
+TBB1.
+ 
+
+ 
+Checking of Mutual fund scheme balances and taking report with t
+-
+code TPM12.
+ 
+
+ 
+Creation of new scheme id which is not existed in sap with using t
+-
+code FWZZ.
+ 
+
+ 
+Reversal of parked entries with using t
+-
+code FTR_EDIT.
+ 
+
+ 
+Reversal of DDR entries.
+ 
+ 
+ 
+EDUCATION
+ 
+ 
+ 
+JAWAHARLAL TECHNOLOGICAL
+ 
+UNIVERSITY
+, 
+Kakinada
+, 
+Andhra Pradesh
+ 
+Master of 
+Business Administration,
+ 
+Dec 2010
+ 
+ 
+ 
+ 

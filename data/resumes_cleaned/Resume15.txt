@@ -1,0 +1,199 @@
+Candidate FTE35345
+
+				SAP S/4 HANA - Sales and Distribution Consultant
+
+		Career Objective
+
+A highly experienced and dedicated SAP SD Functional Consultant  specializing in the OTC process. Proven expertise in working end to end implementation projects, delivering solutions that drive operational efficiency, and enhancing customer experience. Seeking a challenging and dynamic role to further enhance my skills and experience in the field.
+
+	
+
+									       Profile Summary
+
+
+
+Have overall experience of  9.1 years. Certified SAP S/4 HANA Sales 2020 consultant.
+
+Worked in 2 end to end Implementation, 3 Rollout and 2 Support projects. Worked with international clients based out of USA, Canada, Europe and Japan.
+
+•	Expertise in SAP SD OTC process
+
+Sound Knowledge in Invoice, Pricing, Advanced Returns management and output management.
+
+•	Experienced in design and development of SAP SD customizations, enhancements, and interfaces
+
+•	Strong understanding of integration points with other SAP modules such as MM, PP, and FI 
+
+•	Good communication and interpersonal skills. Business process analysis and design
+
+Worked in complex WRICEF developments.
+
+Basic understanding of SAP MM processes and ABAP debugging.
+
+
+
+                                                                    Work Experience
+
+Company #1:
+
+Organization	  :    IBM
+
+Designation	  :    SAP HANA SD SCM – Senior Package Consultant
+
+Duration             :    Sep 2022 - Present 
+
+Client                    :    Suncor energy (Sep 2022-Dec 2022) 
+
+
+
+Responsibilities:
+
+
+
+Worked as a Team lead in SAP IS Oil and Gas module for an energy management company.
+
+Supported SAP Technical upgrade project on OTC area.
+
+
+
+Company #2:
+
+Organization	  :    Accenture
+
+Designation	  :    Application Development Team Lead
+
+Duration             :    June 2021 –  Sep 2022  
+
+             Client                    :    Shiseido – Beauty care products
+
+
+
+Responsibilities:
+
+Worked in S/4 HANA transformation project for the pilot version and rollout projects.
+
+Involved in requirement analysis and solution design.
+
+Doing fit-gap analysis. Creating POC and designing TO-BE solution
+
+FSD preparation for the Gaps identified.
+
+Interacting with Client team to finalize the solution design.
+
+Collaborated with cross-functional teams to ensure smooth and successful project delivery
+
+Trained and mentored junior consultants on SAP SD best practices
+
+
+
+Company #3:
+
+Organization	  :      Infosys Limited
+
+Designation	  :     Senior Associate Consultant
+
+Duration             :     December  2016 –  June 2021 
+
+             Client                    :    Novartis - Pharmaceutical
+
+
+
+Responsibilities:
+
+Worked in End to end implementation project and multiple roll outs.
+
+Involved in requirement analysis and solution design.
+
+Prepared FS, Configuration specification documents and test scripts documents based on the proposed design. 
+
+Coordinating with ABAP team for technical feasibility and development of the solution proposed 
+
+Involved in UAT, Production - Cut over activities
+
+Prepared User Manual and provided KT to Business Process owners / IT team.
+
+
+
+Company #4:
+
+Organization	  :    Accenture Services Private Limited
+
+Designation	  :    Software Engineering Analyst
+
+Duration              :    December  2013 –  December 2016     
+
+              Client                    :    Carlsberg, Accenture - Internal
+
+
+
+Responsibilities:
+
+CR Lead – To provide estimations, prepare FS documents, build and test the solution, align with the business to get the UAT approval, and provide support till the changes are moved and stabilized in production system.
+
+Interacted with Solution Architects and Solution experts for requirement analysis and solution design approval.
+
+Exploring cutting edge technologies in SAP (HANA) and building assets to showcase to the clients and RFP's.
+
+Implemented SAP DBM (Dealer business Management) solution and enabled typical scenarios in Vehicle Purchase / Sales. Worked in SAP VMS for vehicle master creation.
+
+Worked in Fiori / Syclo application testing and CRM - Service manager application.
+
+Worked in SAP - Advanced Returns Management.
+
+	Internship:  Honeywell Technology Solutions (Jan 2013 – Jun 2013)
+
+	
+
+Educational Summary
+
+
+
+Course/Specialization
+
+Institution
+
+Year of Passing
+
+Percentage/ CGPA
+
+B.E - ECE
+
+R.M.K Engineering College, Chennai (Affiliated to Anna University)
+
+2013
+
+		8.88 (Out of 10)
+
+Higher secondary (Maths)
+
+Velammal Matriculation Higher Secondary School, Chennai.
+
+
+
+2009
+
+
+
+94.08%
+
+S.S.L.C
+
+St. Antony’s Matriculation Higher Secondary School, Chennai.
+
+2007
+
+88.45%
+
+
+
+Achievements
+
+Received special incentive from Infosys for my contribution towards project deliverables.
+
+University Rank Holder in B.E (Anna University).  Secured double centum in Mathematics in both 10th & 12th standard board exams.
+
+Certifications:
+
+SAP Certified Application Associate – SAP S/4HANA Sales 2020
+
+Microsoft Azure Fundamentals (AZ-900)

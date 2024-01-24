@@ -1,0 +1,296 @@
+Sathish Raju 
+
+CANDIDATE 4534 
+
+Summary
+
+I have an experience of 5 Years in IT and acquired the following skills:
+
+		Experience in configuring SAP Hybris Billing, SAP Hybris Marketing and SAP Hybris Cloud for Customer System
+
+		Proficient in Marketing, Sales and Service.
+
+		Proficient in translating Billing Use Cases to SAP CC Algorithms.
+
+		Experience in Integrating SAP Convergent Charging with SAP Convergent Invoicing
+
+		Analyse business requirements and mapping them in the system.
+
+		Communicate Solution gaps and identify areas, which are part of out of the box solution
+
+		Work with Client IT team in setting up the system.
+
+		Worked on SAP Hybris Marketing POC for Austria Telekom Group (From March 2018 to September 2018) and RFP for Sogrape, cloud for service implementation.
+
+		Configured Product Recommendations for Commerce and Email channels in SAP Hybris Marketing
+
+Selected Project Experience
+
+Company: Capgemini (September 2018- Till Date)
+
+
+
+Project/ Client
+
+SAP
+
+Position
+
+Hybris Billing Consultant (CC & CM)
+
+Duration
+
+November 2019– Till date 
+
+Responsibilities 
+
+As CC Consultant Responsible for,
+
+Worked on the Subscription based and consumption based billing model (SiSe)
+
+Implemented the Billcycle change, Multi payer, Tax change scenario and upsell process for Fieldglass.
+
+Implemented the Forecast Alert and updated the TCV calculation logic for SiSe process 
+
+Implemented the Credit Bit creation for subscription based billing 
+
+Defined aggregation model and configured the metric conversion logic for Consumption based billing.
+
+Service on boarding and supporting E2E service owner validation
+
+Implemented the Account split functionality in Hana Enterprise Cloud using Agreement Tables and created chargeplan from scratch
+
+SLM data sync and validation and Month end monitoring activities
+
+Analysing the tickets and provide root cause analysis
+
+Test case creation and regression suite preparation
+
+  
+
+
+
+
+
+
+
+Company: Wipro Technologies (July 2015- September 2018)
+
+
+
+Project/ Client
+
+Bosch Security Systems
+
+Position
+
+Hybris Billing Consultant
+
+Duration
+
+September 2017 – September 2018 
+
+Responsibilities 
+
+Responsible for configuring the SAP Convergent Charging and SAP CRM 
+
+Requirement Gathering and address the solution gaps for Convergent Charging Pricing.
+
+Design of Charging algorithms 
+
+Configured Product Master for Subscription Scenarios. The Product set up involves in synchronization of Products between SAP ECC / SAP CRM and Hybris Commerce.
+
+Set up Charge Plans Pricing for Data / Monthly / SMS Charges for Customer Subscriptions 
+
+Configured Shared Subscriptions, where Data usage is shared among multiple Subscriptions 
+
+Configuration of Billable items / Consumption items in Convergent Invoicing system.
+
+Configured Billing scenarios including , 
+
+First Billing Trigger after Specific number of days or First 
+
+            Consumption
+
+One Shot payment for Advanced Billing 
+
+Prorated Charging 
+
+Configured IEC Scenarios for Bulk loading of Customer Consumptions 
+
+Trace and Troubleshoot SAP CC / SAP CI Errors
+
+Testing using SOAP UI 
+
+
+
+
+
+Project/ Client
+
+Harte Hanks
+
+Position
+
+Hybris Marketing Consultant
+
+Duration
+
+April 2017 – August 2017 
+
+Responsibilities 
+
+Responsible for configuring the Hybris Marketing Cloud Solution 
+
+Requirement gathering and address the solution gaps.
+
+Configured Segmentation and target groups for multiple types of campaigns    (Direct Mail , Email & Phone)
+
+Defined Mutual Exclusion Rules for Direct Mail Campaigns , based on Customer interactions
+
+Configured Export layouts for Third Party Campaign Executions. 
+
+Defined Suppression rules and communication categories for Email Campaigns
+
+Configured Predictive Modelling.
+
+Deployed Email, Multi wave and Trigger based campaigns
+
+Reconciliation of data between the legacy and the Hybris Marketing systems
+
+
+
+
+
+Project/ Client
+
+National Grid
+
+Position
+
+CRM Consultant 
+
+Duration
+
+March 2016 – December 2016
+
+Responsibilities 
+
+
+
+Configured the interactive script according to the business requirement
+
+Configured the word templates
+
+Middleware configuration for master data replication
+
+Updating the functional specs as per requirement,
+
+Preparing various test scenarios and test cases
+
+
+
+
+
+Project/ Client
+
+Federal Mogul
+
+Position
+
+CRM Consultant 
+
+Duration
+
+November 2016 – February 2016
+
+Responsibilities 
+
+
+
+Involved in debugging and bug fixing
+
+Monitor PI-CRM proxy queues in CRM and error processing.
+
+Testing the application
+
+
+
+
+
+Project/ Client
+
+Thames Water
+
+Position
+
+CRM Consultant
+
+Duration
+
+July 2015 – October 2016
+
+Responsibilities 
+
+
+
+Monitor Business Partner Configuration 
+
+Replication of Business Partners to Contract Partners
+
+WEB UI Configuration
+
+Batch job monitoring
+
+
+
+Qualifications
+
+
+
+Level
+
+Percentage
+
+College / University
+
+Degree (BE MECH)
+
+82
+
+M.Kumarasamy College of Engineering, karur,TN
+
+HSC(12th)
+
+85.5
+
+Sengunthar higher secondary school, Tyr,TN
+
+SSC(10th)
+
+91
+
+Sengunthar higher secondary school, Tyr,TN
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+4 | Page
+
+
+		
+
+Sensitivity: Internal & Restricted
+
+Sensitivity: Internal & Restricted1 | Page

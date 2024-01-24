@@ -1,0 +1,213 @@
+CANDIDATE SER33532
+
+SAP SD Consultant
+
+PROFESSIONAL summary:
+
+5+8 years of experience as SAP SD Functional consultant.
+
+Having experience in Implementation & Support project.
+
+Good communication, management and presentation skills.
+
+SAP SD SKILLS:
+
+
+
+Configured the enterprise structure with the assignment in between the organizational units.
+
+Good exposure in creation of Account groups and customer master data.
+
+Configured various sales document types, item categories, and schedule line categories as of the client requirement.
+
+Configured the delivery types for different types of orders like standard delivery, Delivery without order reference, Cash sales delivery, Return delivery, etc.
+
+Configured Billing documents for various scenarios including order related invoice, delivery related invoice, Performa invoice, credit memo, debit memo, credit for returns, cash sales invoice..
+
+Expertise knowledge in Pricing. And configured different Pricing Procedures according to the required client’s business process.
+
+Configured various processes like Material determination, Cross selling, Free Goods, Item proposal, Listing and Exclusion, Text determination procedure, incompletion procedure, Bill of materials.
+
+Configuration of Revenue Account Determination, Credit Management.
+
+Good knowledge on ALE IDOCs and basic knowledge on Data Migration Tool like LSMW.
+
+Having knowledge on different business scenarios, like Intercompany- SO/PO process, Third party Process Etc. 
+
+Good knowledge in preparing Functional Specifications.
+
+work experience:
+
+Currently Working as SAP SD Lead Consultant in GENPACT. from September 2022 to till date.
+
+Working as SAP SD Senior Functional Consultant in  PE Electronics Ltd, from July2019 to September 2022
+
+Working as SAP SD Associate Functional Consultant in Intuitive Surgical ,from August 2017 to July 2019
+
+	
+
+education qualifications:
+
+	
+
+Completed Post Graduation (MBA) from JNTU – 2015
+
+Completed Graduation (B.Sc.) from SV University – 2013
+
+	
+
+													Project #3:
+
+Client		: GE power
+
+Duration 	: September 2022to till date.
+
+Role		: Lead Consultant
+
+Project	: Enhancement &Rollout					
+
+Description: 
+
+ GE is leading energy player in the country with strong capabilities in engineering, manufacturing, project management and supply of products and solutions for power generation and transmission infrastructure requirements. GE has tow listed companies –GE power India limited and which are listed on the stock exchanges in India. Having expanded its business across markets and geographies.
+
+	Roles & Responsibilities:
+
+Provide Standard IDOC (Debmas) Field Mapping to PI Team.
+
+Worked on Customer Master Enhancement. 
+
+Worked on integration testing With PI team
+
+Preparing User manual for Customer Master issues.
+
+Schedule Background Job for Failure IDOC’s,
+
+Cut over activities after Go live 
+
+Provide Shadow support after Go-live.
+
+
+
+													Project #2:
+
+Client		: PE Electronics Ltd, Mumbai.
+
+Duration 	: July2019 to September 2022
+
+Role		: Senior Functional Consultant
+
+Project	: Implementation &  Support					
+
+
+
+Description: 
+
+ PE Electronics Ltd is a new business promoted by Videocon Group unit that brings together two premium brands Philips (range of Television products) and Electrolux (range of Home Appliances) that complement each other as a single entity under a unique brand licensee agreement and after sales the services of products is given by QCESPL which is part of PE Electronics Ltd.
+
+	Roles & Responsibilities:
+
+Involved in project preparation & Business blueprint preparation.
+
+Involved in identification of the business requirements and preparation of TO-BE documents.
+
+Configuration of SD organizational elements as per business requirement.
+
+Analyzed company's structure and documentation and maintained the enterprise structure for the smooth run of business process.
+
+Configured the sales order processing. Worked with diff. types of sales document, Item categories for processing of Quotations, Orders, Deliveries and Invoices.
+
+Worked on Account Groups & Partner Determination & Log of Incompletion.
+
+Configured pricing procedure by using condition technique.
+
+Configured the Returns sales, Replacement, BOM and Consignment sales process.
+
+Configured Customer/Dealer Replacement process w/o ref.
+
+Configured Rebate processing.
+
+Configured Credit management with Automatic credit check.
+
+Involved in developing User Exits, Z reports & Smart forms along with ABAPER to meet the business requirements.
+
+Routine for pricing check where manual condition type shouldn’t cross particular limit.
+
+Maintained Plant wise Number ranges for Delivery and Billing documents.
+
+Involved in BAPI & BDC developments.
+
+Developed STEP project to transfer daily sales summary data from SAP server to FTP server.
+
+Interact with other functional modules like MM and FI for cross functional requirements.
+
+Complete Unit testing is done for implemented scenarios & Functional UAT.
+
+Monitoring, resolving SD issues & queries to support day-to-day operations.
+
+On call support, writing functional specifications, preparation of change management form, getting approvals and moving changes through system landscape.
+
+Analyzing system impact for any changes and coordinating with other SD team members for the feedback of the impact.
+
+Preparing documents for the SD module related to client configuration and customization for future knowledge.
+
+
+
+													 Project #1:
+
+Client		           	   	: Intuitive Surgical 
+
+Duration 	                           : August 2017 to July 2019
+
+Role				: SAP SD Associate Functional Consultant
+
+Project type			: Support	
+
+
+
+	Description:
+
+	Intuitive Surgical Inc. is an American corporation that develops, manufactures and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System. 
+
+	Roles & Responsibilities:
+
+Working on SR’s and incidental tickets.
+
+Worked on Change request raised through support process related to SD Module.
+
+Define functional specifications for new Enhancements, Reports for the development team.
+
+Configuration changes done in Pricing procedure added new condition types.
+
+Integration with FICO including revenue account determination & new account keys
+
+Worked on User exit to Unblock sales orders if yearly quantity maintained in table with 	zero value.
+
+Configured new output type for Delivery after PGI for Blueprint DQSA rollout.
+
+Configured new output type for 3PL portal implementation in order to monitor 
+
+Developed new report to proactively monitor Customers orders against forecast.
+
+Developed new functionality BAPI for to create mass sales orders.
+
+Worked with EDI team in analyzing the various issues related to IDOC and its segments.
+
+Involved various test scenarios like Unit Testing, Integration Testing, Regression testing . 
+
+Coordinating with the onsite team.
+
+	
+
+	
+
+	
+
+PERSONALDETAILS :
+
+Fathers Name		: K. Ravindra
+
+Nationality		             : Indian.
+
+Languages		             : English, Telugu, Hindi.
+
+Marital Status		: Un-Married.

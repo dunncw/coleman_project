@@ -1,0 +1,98 @@
+Machine Learning Engineer/Data Scientist (Mid-Level) with Generative AI Focus (Remote, EC)
+
+The Company:
+
+Coleman Research is trusted by the world’s leading organizations to provide insights from hard-to-find experts on various subject matters. As a subsidiary of the leading expert network in Japan, VisasQ, with offices in Raleigh, New York, Los Angeles, Phoenix, London, Hong Kong, Singapore, and Tokyo.
+
+We "Think Big, Think Global," and achieve our collective goals by reducing geographic, cultural, and language barriers so we can make insightful connections possible everywhere. United by a common vision, we are bridging knowledge gaps with a global knowledge base of over 460K+ experts. As information matchmakers, we connect our clients with the best expert minds across industries.
+
+As we continue to scale our fast-growing business, we are looking for dynamic, tenacious problem solvers who are energized by the opportunity to interact with the world’s top institutional investors, consulting firms, and corporations.
+
+ The Opportunity:
+
+Coleman is seeking a talented and motivated Machine Learning Engineer or Data Scientist based on the East Coast (US) to join our growing Development team. This role offers work from home or in office flexibility depending on location.
+
+Ideal will have a strong foundation in machine learning algorithms, a passion for MLOps practices, and a keen interest in Generative AI technology. This role will involve both research and development to help us create, deploy, and maintain cutting-edge AI platform.
+
+It’s a great opportunity to join a friendly team and contribute to a thriving business area.
+
+ Responsibilities:
+
+Design, implement, and validate machine learning models, with an emphasis on generative models.
+
+Integrate machine learning models into production environments using MLOps best practices, including CI/CD pipelines, model monitoring, and version control.
+
+Optimize model performance, scalability, and efficiency.
+
+Develop and maintain data pipelines for model training and inference.
+
+Stay updated with the latest developments in machine learning, MLOps, and Generative AI, and advocate for the adoption of new technologies and methodologies.
+
+Collaborate with cross-functional teams to understand business needs and translate them into technical solutions.
+
+Work with stakeholders to ensure models meet ethical AI guidelines and industry standards.
+
+ 
+
+Qualifications:
+
+Master's degree in Computer Science, Data Science, Mathematics, Statistics, or a related field.
+
+5 years of experience in a machine learning engineering or data science role.
+
+Strong proficiency in Python and common machine learning.
+
+Demonstrable experience with MLOps tools and practices (e.g., Kubeflow, MLflow, DVC, Docker).
+
+Experience with data modeling, data cleaning, and preprocessing techniques.
+
+Understanding of Generative AI technologies and their applications.
+
+Excellent problem-solving, critical thinking, and communication skills.
+
+Must be authorized to work in the United States
+
+
+Desirable Skills:
+
+Familiarity with Azure cloud platform and their machine learning services is a plus.
+
+Contributions to open-source projects or public repositories showcasing relevant work.
+
+Prior experience with generative models in a production or research setting.
+
+Must be authorized to work in the United States.
+
+ Why Join Us?
+
+ As a Machine Learning Engineer/Data Scientist at Coleman, you can jumpstart your career in the rapidly growing market research industry and have the opportunity to work with cutting-edge Ai technologies. Your success is our success. At Coleman, we devote time and resources so you can reach your professional potential. Throughout our onboarding training and beyond, we dedicate time to support your professional development through trainings, shadowing, cross department mentorships, and more.
+
+If you are self-motivated, driven, and focused on achievement, there are no limits to your ability to succeed and grow with Coleman!
+
+  Benefits
+
+  Our employees are our most valuable asset. They make Coleman a vibrant and innovative place to work, and we strive to ensure the happiness and health of our employees by offering a variety of benefits and perks that include:
+
+Competitive salary and discretionary (quarterly/annual) bonuses
+
+Responsible Paid Time Off
+
+Full autonomy on working from the office or home
+
+90% employer costs coverage for health and dental insurance premiums
+
+401K Contributions
+
+Monthly mobile phone usage reimbursement
+
+Education Reimbursement Program
+
+We focus on fostering the personal and professional development of our employees, and strongly believe in our talents’ potential to develop into future leaders. We provide extensive orientation and training programs for each of our employees throughout their careers with Coleman, as well as educational assistance programs to encourage our people to stay curious and to continue learning.
+
+We also believe in giving back to our communities. In that spirit, we provide each employee with 2 paid community service days per year, and, as an organization, participate in other volunteer and fundraising activities that are meaningful to our employees.
+
+ We have an interactive management team, and an open and collaborative work environment, whereby we value creativity of thought and listen to the voice of our employees.
+
+ A Machine Learning Engineer/Data Scientist salary compensates them for all hours worked, which may vary from week to week. Machine Learning Engineers carry an FLSA-exempt status and are not eligible for overtime pay. 
+
+An Equal Opportunity Employer. All Coleman employees are required to sign the Company's standard non-compete agreement as a condition of accepting employment.

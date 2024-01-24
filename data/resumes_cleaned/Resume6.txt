@@ -1,0 +1,392 @@
+C
+ANDIDATE 325
+TRS
+ 
+OVERVIEW
+ 
+
+ 
+Professional with more than 5.1
+ 
+years of experience in Telecom industry
+ 
+and 1.3+ years of 
+experience
+ 
+in 
+SAP Global IT project 
+to implement
+ 
+BRIM solution for sa
+p cloud platform 
+services
+.
+ 
+
+ 
+Hands
+-
+on experience in telecom billing and functional implementation and maintaining large scale billing solution for a Greenfield 
+Telecom 
+Project
+ 
+
+ 
+Hands on experience 
+in implementation and application 
+of BRIM solution for SAP Glo
+bal IT project
+. 
+ 
+
+ 
+Have experien
+ce in SAP Hybris billing particularly functional implementation of SAP Convergent Charging and overview of Mediation Zone by 
+Digital Route.
+ 
+
+ 
+Performance management of billing solution
+ 
+PROFESSIONAL PROFILE
+ 
+Reliance Industries 
+Limited
+ 
+Designation
+ 
+
+ 
+Executive
+ 
+(Development & Testing 
+
+ 
+Online Charging System) 
+(
+AUGUST
+ 
+2013 
+
+ 
+SEPTEMBER 2018
+)
+ 
+Department: 
+Bill and Pay 
+-
+ 
+Online Charging System (OCS)
+ 
+Roles: 
+Telecom Rating Design and Configuration 
+with Testing
+ 
+Team Size
+: 12
+ 
+Description
+ 
+Re
+liance Jio 4G
+ 
+: SAP hybris billing, Mediation zone, Soap UI 
+ 
+
+ 
+Implemented the Online charging logic in SAP Convergent Charging for the various services like LTE, VoLTE, Wi
+-
+Fi and FTTH.
+ 
+
+ 
+Integrated with Mediation Zone, SAP Convergent Invoicing and SAP CRM. 
+ 
+
+ 
+A
+nalysis and solution of business requirements.
+ 
+
+ 
+Configuring Price Plans according to business logic in SAP CC.
+ 
+
+ 
+Unit testing with SOAP UI and Groovy Script. 
+ 
+
+ 
+Tackling operational hurdles and ensuring maintainability of the system. 
+ 
+
+ 
+Analysis of billing and in
+voicing performance
+ 
+
+ 
+Performance management.
+ 
+ 
+ 
+Achievements
+ 
+1.
+ 
+Configured all world ROAMING logic
+ 
+for LTE
+ 
+after having discussions with network and mediation team
+ 
+which helps to handle the rating and 
+charging of roaming calls from all over the world.
+ 
+2.
+ 
+Designe
+d and 
+Configured
+ 
+the logic for End of Session notification for VOLTE and LTE services after having discussions with network and 
+mediation team
+ 
+which intimates the customer of the usage and balance available.
+ 
+ 
+ 
+ 
+ 
+Capgemini Technology Services India Pvt Ltd
+ 
+Designation 
+
+ 
+Consultant B2
+ 
+(Development & Testing 
+
+ 
+SAP Convergent Charging) 
+(
+OCTOBER 2018 
+
+ 
+PRESENT
+)
+ 
+Department: 
+SAP GLOBAL IT (billing)
+ 
+Roles: 
+Cloud Subscription and PAYG rating and
+ 
+configuration.
+ 
+Team Size
+: 25
+ 
+Description
+ 
+Capgemini India : SAP GLOBAL IT Project: SAP hybris billing, Mediation zone
+ 
+CM
+, Jmeter, Soap UI 
+ 
+
+ 
+Implemented the charging logic in SAP Convergent Charging for 
+Pay as you go (PAYG) functionality for SAP Cloud platfo
+rm known as Cloud 
+platform enterprise agreement (CPEA)
+.
+ 
+
+ 
+Interacted with Service Owners to understand the requirement of charging and implemented accordingly.
+ 
+
+ 
+Integrated with 
+Convergent Mediation
+, SAP Convergent Invoicing and SAP CRM. 
+ 
+
+ 
+Configuring Price Pla
+ns according to business logic in SAP CC.
+ 
+
+ 
+Unit testing with 
+Jmeter testing tool and SOAP UI.
+ 
+
+ 
+Integrating with CM for end to end testing using Jmeter tool for the functionality
+ 
+
+ 
+Carrying out performance tests by generating large amount of load onto CC CM usi
+ng Jmeter testing tool.
+ 
+ 
+ 
+Technical Skills:
+ 
+
+ 
+Convergent Charging (SAP
+-
+CC) 
+ 
+
+ 
+Core Tool
+, Admin +
+ 
+ 
+
+ 
+Convergent 
+Mediation
+, Convergent Invoicing, 
+-
+ 
+For debugging
+ 
+ 
+
+ 
+Testing Tool 
+
+ 
+Jmeter 
+ 
+ 
+
+ 
+Functional testing Tool 
+
+ 
+Soap UI (Web Services)
+ 
+ 
+
+ 
+Analyzing wireshark trace
+s.
+ 
+ 
+
+ 
+Using Linux for testing integrated systems. (eg:Mediation zone)
+ 
+Academic Projects
+ 
+Project Detail (B.E.):
+ 
+Building Lighting automation through the integration of DALI with WSN
+ 
+Duration 
+ 
+: NOV 2012 
+
+ 
+MAR 2013
+ 
+Team Size 
+: 4
+ 
+ 
+Project based on embedded sys
+tems
+ 
+which
+ 
+focuses on the development of a prototype to be used in a wireless sensor network (WSN) which also 
+integrates DALI (digital addressable lighting interface) protocol. The wireless sensor network is created using ZIGBEE.
+ 
+The main purpose is to pro
+vide the 
+end consumer with an economical fully centralized system. It involves provision of a single control point for automation whic
+h provides access to all the 
+building automation services which ultimately result in cost reduction.
+ 
+ 
+ 
+ 
+ 
+ 
+PROFESSIONAL QUA
+LIFICATION
+ 
+GRADUATION 
+ 
+B.E in Electronics and Communication Engineering, 
+ 
+ 
+Aggregate 
+ 
+: 76.4%, First Class
+ 
+Year Passed
+ 
+: 2013
+ 
+College
+ 
+ 
+: Vivekanandha Institute of Engineering and Technology (VIET)
+ 
+University
+ 
+: Anna University, Chennai
+ 
+ 
+INTERMEDIATE
+ 
+Aggrega
+te 
+ 
+: 73.67%, First Class
+ 
+Year Passed
+ 
+: 2009
+ 
+School
+ 
+ 
+: New English High School & Junior College, VASAI
+ 
+Board
+ 
+: Maharashtra State Board of 
+Secondary and Higher Secondary 
+Education.           
+ 
+ 
+HIGH SCHOOL
+ 
+Aggregate 
+ 
+: 81.69%, Distinction
+ 
+Year Passed
+ 
+: 2007
+ 
+School
+ 
+ 
+: Carmelite Convent English High School, Vasai.
+ 
+Board
+ 
+ 
+: Maharashtra State Board of S
+econdary and Higher Secondary 
+Education.        
+ 

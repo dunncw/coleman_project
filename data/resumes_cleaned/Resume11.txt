@@ -1,0 +1,526 @@
+CANDIDATE 
+ABVC345
+ 
+
+ 
+SAP SD Consultant
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+Certification ID : 
+0024236184
+ 
+ 
+To obtain a challenging position in a professional technology
+-
+driven organization of repute that would best utilize my 
+expertise as a
+ 
+SAP SD Functional 
+Consultant.
+ 
+I look forward to use my skills to help my organization achieve its 
+objectives and bring in continuous growth and complement my professional growth.
+ 
+ 
+Location Preference: Anywhere
+ 
+ 
+Profile Summary
+ 
+ 
+
+ 
+An ene
+rgetic individual with around 10
+ 
+years o
+f total experience in different areas with different roles and 
+responsibilities.  
+ 
+
+ 
+2
+ 
+years of experience as SAP SD As
+sociate consultant/Support and 4.8
+ 
+Years as SAP End user and 3.3 years in 
+Non 
+
+ 
+Sap domain.
+ 
+
+ 
+Playing a senior role in handling multiple team
+s and having ability to work as a team player or individually to 
+learn and adopt new technology concepts.
+ 
+
+ 
+Have good understanding of business processes with excellent communication and interpersonal skills
+ 
+
+ 
+Good knowledge of International 
+Commercial Terms & Payment Terms with knowledge of ASAP 
+methodology for effective Configurations and Implementations & Support.
+ 
+
+ 
+Have good knowledge in using MS office, excel and MIS reporting and preparing Process SOPs. 
+ 
+ 
+SAP SD Skills
+ 
+ 
+
+ 
+Configuration of SD
+ 
+related organizational elements. Preparations for the Customer Master Data, Account Groups 
+and Partner Determination Configuration. 
+ 
+
+ 
+Customization of various Sales Document Types, Item Categories and Schedule Line Categories. Configuration of 
+Delivery Documents and Billing Documents. Maintaining Copy Control for Sales Documents, Delivery Documents 
+and Billing Documents.
+ 
+
+ 
+Configuration of Shipping Point Determination, Picking Location Determination, Storage Location Rules & Route 
+Determination.
+ 
+
+ 
+S
+pecial Business Processes like Inter
+-
+company, Consignment stock Processing, Third Party sales process & Stock 
+transfer process.
+ 
+
+ 
+Pricing related configurations by using condition technique. Knowledge of Condition Tables, Condition types.
+ 
+
+ 
+Configuration of cr
+edit management and rebate agreements and credit memo, debit memo and returns. 
+ 
+
+ 
+Configuration of free goods determination, material determination, and revenue accounts determination and 
+bills of material.
+ 
+
+ 
+Output determinations for deliveries and Invoices.
+ 
+
+ 
+Configuration of Transfer of requirements and availability check.
+ 
+
+ 
+Basic knowledge on MM and FI Integration.
+ 
+ 
+Education
+ 
+ 
+
+ 
+B.C.A from Sikkim Manipal University (SMU) in 2014
+ 
+
+ 
+SAP Certified Application Associate 
+-
+ 
+Sales and Distribution with SAP ERP 6.0 
+EhP7.
+ 
+ 
+ 
+ 
+ 
+IT Skills
+ 
+ 
+
+ 
+SAP SD ECC 6.0 EHP7 Configurations and Implementations.
+ 
+
+ 
+SAP S4/HANA 
+
+ 
+Basic Knowledge
+ 
+
+ 
+MS Office 
+ 
+ 
+Employment Details 
+ 
+ 
+ 
+LT FOODS
+ 
+EUROPE
+ 
+(UK)
+ 
+(Maxx Solutions) from April 2021
+ 
+to Present
+ 
+ 
+Team Leader
+-
+SAP SD
+ 
+Consultant in End to End 
+Implementation and Support
+ 
+from April 2021
+ 
+to 
+Present
+ 
+ 
+
+ 
+Project involves from understanding of client business process.
+ 
+
+ 
+Enterprise structure defining and assignments 
+ 
+
+ 
+Defined Account groups
+/ number ranges
+ 
+and configured Partner determination procedure.
+ 
+
+ 
+Co
+nfi
+gured Sales documents Types, Delivery Doc types, Billing doc types, Credit and Debit Memo documents 
+types.
+ 
+
+ 
+Configured sales process such as
+ 
+OTC, Free of Charge Delivery 
+and STO 
+process.
+ 
+
+ 
+Configuration of
+ 
+Complete Pricing structure with Condition techniques,
+ 
+ 
+
+ 
+Configured 
+Availability 
+check, Material determination, 
+Credit management.  
+ 
+
+ 
+Config
+ured Third party sales process for customer who wants to procure from our vendor directly.
+ 
+
+ 
+Set up the Shipping process
+ 
+by configuring Shipping point determination & Route Determination.
+ 
+
+ 
+Managing and resolving the day to day production tickets as per the client requirements within SLA time
+ 
+
+ 
+Analyzing errors and preparing end user documents related to master data in SAP 
+Pricing, sales order & delivery 
+processing & billing.
+ 
+
+ 
+Discussing with Business
+ 
+partner
+ 
+for any new requirements, configuring and getting the approvals for the new 
+change requests raised by end users.
+ 
+
+ 
+Interacting with end users through for resolving the tic
+kets based on priority.
+ 
+ 
+GENPACT INDIA 
+PVT. LTD. from October 2020 to February 2021 (4 M)
+ 
+ 
+As
+sistant Manager in O2C
+ 
+Process
+ 
+(
+CARDINAL
+-
+ 
+HEALTH CARE PROCESS)
+ 
+ 
+
+ 
+Handling Team who are 
+Responsible for Processing daily sales orders/Outbound 
+delivery/PGI/Invoicing/Billing.
+ 
+
+ 
+Resolving
+ 
+PO issues if any, to salesperson or sales team for the revised PO.
+ 
+
+ 
+Handling Customer Complaints, creating Credit memo/ Debit memo as per the Company Policy.
+ 
+
+ 
+Coordinating with Warehouse/Plant to resolve any 
+issue related to distribution and delivery of the Order.
+ 
+
+ 
+Inform customer about the delay of the Delivery orders.
+ 
+
+ 
+Closely working with Salesperson for their regions and helping them in Promotions Allocations and giving end to 
+end sales support to all region
+s.
+ 
+ 
+LT FOODS AMERICAS
+ 
+(Maxx Solut
+ions) from April 2018 to Oct 2020
+ 
+( 2Y 6M )
+ 
+ 
+ 
+Senior Executive End user in Order to Cash Process
+ 
+
+ 
+Complete process handling
+ 
+ 
+
+ 
+Responsible for Processing daily sales orders/Outbound 
+delivery/PGI/Invoicing/Billing.
+ 
+
+ 
+Escalating PO issues if any, to salesperson or sales team for the revised PO.
+ 
+
+ 
+Sharing Paperwork (RO & BOL) to 3PL & to 
+own
+ 
+warehouse to 
+pick
+ 
+up the order from the warehouses.
+ 
+
+ 
+Coordinating with Warehouse/Plant to resolve any 
+issue related to distribution and delivery of the Order.
+ 
+
+ 
+Inform customer about t
+he delay of the Delivery orders &
+Coordinate with customer for the follow up of Pick 
+Orders.
+ 
+
+ 
+Closely working with Salesperson for their regions and helping them in Promotions Al
+locations and giving end to 
+end sales support to all regions.
+ 
+
+ 
+Associated with Export & Import documentations and providing all required docs for customer clearance, like 
+Certificate of Origin, Commercial Invoice Packing list/BOL, Phyto certificates, etc.
+ 
+
+ 
+S
+ending Proforma Invoices and Do follow up for the Payments and PO correction with Indian customers.
+ 
+
+ 
+Handling Customer Complaints, creating Credit memo/ Debit memo as per the Company Policy.
+ 
+
+ 
+Associated with US team for any issues related to Order/Payments/D
+elivery of the customer
+ 
+
+ 
+At the EOD will send all sales report / Pick Up & Delivery Appointment report to the warehouses/ Sales managers 
+/ Customer Support Manager/ Operation manager.           
+ 
+ 
+                                                                                            
+ 
+CERAGEM INDIA PVT. LTD. (Korean MNC) from September 2017 to Feb 2018
+ 
+(Manufacturer of Medical Equipment) (6 M)
+ 
+ 
+Worked as 
+Senior Coordinator for Sales and 
+Order Management Team.
+ 
+ 
+
+ 
+On daily basis responsible for handling the Order Generation of North & South regions 
+ 
+
+ 
+Taking care of Distribution, logistics, Warehousing & Customer Service.
+ 
+
+ 
+Coordination with sales and Warehouses regarding dispatches.
+ 
+
+ 
+Preparation 
+of Month end reports for reporting to top management
+ 
+ 
+ZOMATO MEDIA PVT. LTD. from June 2015 to May 2017 (2 Y)
+ 
+ 
+Worked as 
+Senior Associate in Order Management and Rejection Controlling Teams
+ 
+ 
+ 
+
+ 
+Worked with Order Management and Rejection Control team Pan 
+India.
+ 
+
+ 
+Associated with Deployment team to replace the damage device or trouble shooting the device 
+ 
+
+ 
+Worked with Logistics Team for Order Delivery (Zom Delivery/Roadrunner/Delivery/Etc.)
+ 
+
+ 
+Giving End to End Support to the Customer and Merchant on their Compla
+ints via Emails/Calls on daily basis.
+ 
+ 
+SNAPDEAL.COM from March 2014 to June 2015 (01 Y 03 M)
+ 
+ 
+Worked as 
+Key Account Manager
+ 
+and 
+Handled South Team of 15
+-
+20 Associates
+ 
+for Handling Customer and Dealer 
+Complaints 
+ 
+ 
+
+ 
+Generating Sales Leads from the 
+market and enroll and aligning training for them to access our panel
+ 
+
+ 
+Helping Merchant to have check on their inventory for upcoming sales and promotions.
+ 
+
+ 
+
+hrough 
+emails/calls/chats.
+ 
+
+ 
+Sending team performance reports on daily basis.
+ 
+ 
+USHA INTERNATIONAL LTD. (Team lease Contract Pay role). Since June 2012 to Sep 2013 (1 Y 
+4 M)
+ 
+ 
+Worked as Associate in Order to Cash Process.
+ 
+ 
+
+ 
+  
+Handling Complete Order to cash process from order query to payment collections.
+ 
+
+ 
+  
+Coordination with sales team & operation planning team
+ 
+
+ 
+  
+Handling Customers Query and Provide Solution.
+ 

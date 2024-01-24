@@ -1,0 +1,149 @@
+Candidate XXYY
+
+
+
+
+
+CORE COMPETENCIES
+
+Customer Obsession |Product lifecycle management| UX/UI design| Manufacturing, Sourcing & Returns Supply Chain| Requirement Elicitation |Stakeholder Management |Business and Process Mapping |Risk Management|
+
+Agile/Scrum Methodologies |Strategic Planning |Outcome driven Innovation.
+
+
+
+EXPERIENCE
+
+Sr. Product Manager, Microsoft   Seattle, WA						 Jan 2022 – Present
+
+Digital Transformation, Microsoft Devices Supply Chain
+
+Sourcing
+
+Created the product roadmap and led the product strategy for multi-year investment (~2M) to redesign and implement a fully digitized experience for internal and external users to responsibly source and meet compliance goals. The platform orchestrated the MSFT compliance framework using best in class AI technologies, enabled scaled resilience and agility.
+
+Led 1 program manager and 15 engineers to deliver the platform stack.
+
+Evangelized one compliance platform and drove adoption with 3 business units (Cloud/Device/Procurement). 
+
+50% reduction in compliance review process (down from ~13 weeks to ~6 weeks).
+
+Increased visibility into supplier carbon footprint (from 0% to 55%), multi-tier sourcing actors (T3 and T4), risk and non-conformance tracking, impact determination, alerting, mitigation, supplier scoring and monitoring.
+
+Federal
+
+Launched a minimum viable, federally compliant supply chain infra and operations in 5 months instead of the projected 2 years. Commercial.
+
+Generated a new revenue stream (1.7M GM p.a.) by launching Next Business Day (NBD) onsite repair.
+
+Commercial
+
+Generated a new revenue stream (1.7M GM p.a.) by launching Next Business Day (NBD) onsite repair.
+
+Drove the project from ideation to launch including pitch one pager, ROI based prioritization, work back planning, work breakdown (using Microsoft ADO), mockup review and signoff, integration and acceptance testing and go-live.
+
+
+
+Sr. Product Manager, Microsoft   Seattle, WA 						Mar 2016 – Jan 2022
+
+Platform Engineering, Microsoft Devices Supply Chain
+
+Manufacturing
+
+Built business case, designed and successfully launched a standardized serial# format across all new Microsoft device products (NPIs) to replace older format avoiding $5M+ of scrap cost (due to duplication) and potential GTM delays.
+
+Enabled and expanded component traceability (by 70%), increased failure analysis efficiency (30% cycle time reduction) and facilitated real-time yield reporting by onboarding all T1s and T2 factories onto simplified APIs, bringing down onboardings timelines by 60% and eliminated manual error prone reporting.
+
+Improved and scaled up component genealogy data intake and searchability.
+
+Automated logistics bid management processes to save $2.1M YoY by increasing sourcing events & bid rounds while decreasing cycle time. 
+
+Order Management
+
+Introduced Buy-Sell order mechanism across T1s and strategic suppliers improving cash flow (by $200M p.a.) and VAT savings for Microsoft.
+
+Launched pilot program tapping into SMB market, bundling devices and digital goods generating new stream of (~$5M).
+
+Master Data Management
+
+Delivered the Microsoft supply chain initiative around Master data management (MDM) and governance for devices and cloud supply chain to establish secure, governed, and clean master data source of truth. 
+
+This involved integrating multiple mastering systems of record, setting up rules & workflows and defining governance processes. As part of this delivered the foundational master data capability by getting all first party products finished good SKUs flowing into MDG S4 Hana system with governance and rules via MDG UX.
+
+Wrote detailed user stories for engineering team, negotiated timelines and helped make engineering trade-off decisions. Kept stakeholders aligned via weekly ship room meetings.
+
+Device Returns
+
+Integrated repair partners onto a scalable and manageable Azure cloud-based services driving $3M KTLO cost savings YoY.
+
+Launched Modern warranty engine & device repair tracking driving $3M annual reduction in support costs.
+
+
+
+Sr. Program Manager, Tata Consultancy Services  Seattle, WA				   Jan 2014 – Mar 2016
+
+Microsoft Devices Supply Chain (Platform Engineering)
+
+Launched a real time shipping label generation service optimizing cost, picking fastest route, sustainable shipping mode and guided trade document selection generating savings of >$1M YoY.
+
+		
+
+Service Delivery Manager, Tata Consultancy Services  Seattle, WA			    Jan 2013 – Jan 2014
+
+Microsoft Deployment Services (DC Infrastructure)  
+
+Led a team of 60+ specialists, deploying and managing servers (200+) for 7 Microsoft business units.
+
+		
+
+Sr. Program Manager, Tata Consultancy Services   Seattle, WA 				    Jan 2010 – Jan 2013
+
+Microsoft Devices Supply Chain (Platform Engineering) 
+
+Launched the Core Customer Service (CCS), an aggregator service providing Xbox support agents with a 360-degree customer profile view of relevant data (e.g., previous issues, lifetime value). driving increased NSAT and increased revenue via upsell.
+
+Launched device return platform integration with the Microsoft commerce platform increasing paid repair capability to 15+ markets and enabling real time fraud & trade screening.
+
+		
+
+Account Manager, Tata Consultancy Services   Budapest, HU 				   Jan 2008 – Jan 2010
+
+MSN Distributed Development  
+
+Setup and led a 50+ team of leads, designers and engineers in building and deploying 100+ microsites across NA (North America) & EU (European Union) markets.
+
+
+
+	ADDITIONAL RELEVANT EXPERIENCE
+
+	Tata Consultancy Services, IN/JP/US                                                                                                Sep 1998 – Jan 2008	
+
+Project Manager & Web Developer
+
+Led development team migrating Microsoft portals like MSN Travel, Microsoft.com and MSN homepage to new content management system (CMS) framework.
+
+Worked on IBM WebSphere middleware system handling all of BestBuy Inc. POS (point-of-sale systems) messaging.
+
+Built and launched AIG (American International Group) Japan SunAmerica insurance company website.
+
+
+
+
+
+EDUCATION | CERTIFICATIONS
+
+	Bachelor’s in Computer Science
+
+National Institute of Technology, India  (1994-1998)
+
+
+
+Certified Dale Carnegie Course®
+
+Leadership Skills for Success
+
+
+
+Certified SAFe 4 Product
+
+Owner/Product Manager
