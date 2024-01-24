@@ -47,9 +47,11 @@ if __name__ == "__main__":
             resumes.append((filename, resume_text))
 
     # Rank the resumes
+    i=1
     ranked_resumes = rank_resumes(client, job_description, resumes)
-    for (filename, resume), score in ranked_resumes:
+    for (filename, resume), score, in ranked_resumes:
         # print out the resume file name and the score
-        print(f"Resume: {filename}, Score: {score}")
+        print(f"Resume: {filename}, Score: {score}. Rank: {i}")
+        i+=1
         
 

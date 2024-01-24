@@ -32,11 +32,17 @@ def cosine_similarity(embedding1, embedding2):
 
 
 # %%
+from Ingestion_and_cleaning import create_directory
+
 def rank_resumes(client, job_description, resumes):
     """Rank resumes based on their similarity to the job description."""
     job_embedding = get_embedding(client, job_description)
     if job_embedding is None:
         return []
+
+    # Create a directory to store embeddings
+    embeddings_dir = "embeddings"
+    create_directory(embeddings_dir)
 
     scores = []
     for filename, resume in resumes:
@@ -44,6 +50,9 @@ def rank_resumes(client, job_description, resumes):
         if resume_embedding is not None:
             score = cosine_similarity(np.array(job_embedding), np.array(resume_embedding))
             scores.append(((filename, resume), score))
+
+            # Save the embedding to the embeddings directory
+            np.save(os.path.join(embeddings_dir, filename + '.npy'), resume_embedding)
 
     # Sort based on scores in descending order
     scores.sort(key=lambda x: x[1], reverse=True)
