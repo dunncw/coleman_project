@@ -57,3 +57,12 @@ Set the OpenAI API key as an environment variable:
 - data/top_candidate_summaries/: Directory where the summaries are stored.
 - data/ranked_resumes.txt: txt file containing the ranked resumes.
 - data/embeddings.csv: npy file containing the embeddings for the resumes.
+
+## Results:
+1. Share a description of the data cleaning/preparation that you needed to do.<br>
+My data cleaning process was a rather simple one. i am sure that are alot more things that can be done to optimize the unstructered data found in the resumes. I started by gathering some libs to help me convert all the resumes into raw text files. and this was the extent of my datacleaning. the raw text files can be found in ```data/resumes_cleaned/```.
+2. Share a vector of 20 similarity scores for the resumes.<br>
+The 20 similarity scores can be found in ```data/ranked_resumes.txt```. Again this process could be improved in a couple ways by batching all the API calls together and using a more efficient way to store the data. I chose to use a txt file for simplicity as this is a small project.
+3. Share the summary created by GPT for each of the top 3 candidates matching the Job
+Description. <br>
+each candidate summary can be found in ```data/top_candidate_summaries```. There is alot of improvements that can be make to this portion of the code. subprompting to give the model more grounding and tokens to 'think' would be one improvement. Other futher imporvements could include making more effecitent batch calls, further utilizing chat functionaly to give example summarys for the model to do some incontext learning form. more prompt engineering to give the model more context and grounding.
