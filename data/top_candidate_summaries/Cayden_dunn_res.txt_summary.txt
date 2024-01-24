@@ -1,0 +1,11 @@
+Candidate Summary:
+
+Cayden Dunn is a seasoned Machine Learning Engineer who has a Master's degree in Data Science and Analytics, and a Bachelor's degree in Computer Science. Dunn's impressive 5 years of experience in machine learning engineering and data science roles, and his background in SKlearn, Apache Spark, Databricks, Azure, SQL, and Python, make him an ideal fit for the role at Coleman Research. His experience in model development, which won a $300,000 contract, demonstrates his ability to design, implement, and validate machine learning models, which is a key requirement for this role. 
+
+His experience working with MLOps tools and practices such as MLFlow is directly in line with the job requirements. Dunn's experience in automating data processing to create visualizations for business teams using Python and PowerBI aligns with the need to develop and maintain data pipelines for model training and inference. His involvement in various projects and publications showcases his ability to stay updated with the latest developments in machine learning and advocate for the adoption of new technologies and methodologies.
+
+His strong proficiency in Python and common machine learning, combined with his excellent problem-solving, critical thinking, and communication skills, make him a strong fit for the role. Furthermore, his experience in Azure and contributions to open-source projects or public repositories showcasing relevant work, aligns with the desirable skills for the role. 
+
+His experience working in a remote setting and his familiarity with working in cross-functional teams to understand business needs and translate them into technical solutions, will be beneficial for the role, which offers work from home flexibility and requires collaboration with cross-functional teams.
+
+In conclusion, Dunn's strong educational background, extensive experience, proficiency in relevant tools and technologies, and his demonstrated ability to meet the key responsibilities and qualifications required for the role, make him a top candidate for the Machine Learning Engineer/Data Scientist role at Coleman Research.

@@ -9,6 +9,7 @@ This project is designed to ingest and clean resumes and job descriptions, then 
 - `main.py`: The main script that orchestrates the data ingestion, cleaning, and ranking process.
 - `ingestion_and_cleaning.py`: Module for ingesting and cleaning resumes and job descriptions.
 - `resume_ranking.py`: Module for generating embeddings and ranking the resumes based on their similarity to the job description.
+- `generate_summaries.py`: Script to generate summaries for the top candidates.
 
 ## Installation
 
@@ -30,8 +31,9 @@ This project is designed to ingest and clean resumes and job descriptions, then 
   ```
 
 5. Install the required libraries:
-```pip install -r requirements.txt
-```
+  ```
+  pip install -r requirements.txt
+  ```
 
 ## Configuration
 Set the OpenAI API key as an environment variable:
@@ -39,9 +41,9 @@ Set the OpenAI API key as an environment variable:
 - On Unix or MacOS: export OPENAI_API_KEY=your_api_key
 
 ## Usage
-1. Place the job description and resumes in the ```data/resumes/```(see project structer). Ensure resumes are in either .docx or .pdf format.
+1. Place resumes in the ```data/resumes/``` (see project structer) and the job description in ```data/```. Ensure resumes are in either .doc, .docx or .pdf format.
 2. Run the main script to start the process: ```python main.py```
-3. The script will ingest, clean, and rank the resumes. The results will be logged, showing the ranking of each resume.
+3. The script will ingest, clean, and rank the resumes. The results will be logged, showing the ranking of each resume. ```data/ranked_resumes``` will show the results of ranking each resume. the top 3 candidates will have a summary generated for them and saved in ```data/top_candidate_summaries/```.
 
 ## Project Structure
 - main.py: The main script that orchestrates the whole process.
@@ -51,3 +53,7 @@ Set the OpenAI API key as an environment variable:
 - data/resumes/: Directory where the resumes are stored.
 - data/resumes_cleaned/: Directory where cleaned resume data is stored.
 - data/jd_cleaned/: Directory where the cleaned job description is stored.
+- data/ranked_resumes/: Directory where the ranked resumes are stored.
+- data/top_candidate_summaries/: Directory where the summaries are stored.
+- data/ranked_resumes.txt: txt file containing the ranked resumes.
+- data/embeddings.csv: npy file containing the embeddings for the resumes.
