@@ -59,7 +59,7 @@ if __name__ == "__main__":
                for filename in os.listdir(resumes_cleaned_dir) if filename.endswith('.txt')]
 
     # Rank the resumes
-    ranked_resumes = rank_resumes(client, job_description, resumes)
+    ranked_resumes = rank_resumes(client, job_description, resumes, 'data/embeddings')
 
     # Save the ranked resumes
     ranked_resumes_output = "\n".join([f"Resume: {filename}, Score: {score}, Rank: {i+1}" 
